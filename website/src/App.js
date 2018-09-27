@@ -1,8 +1,15 @@
 import React, { Component } from 'react';
+import { Column, Row } from 'simple-flexbox';
 //import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
+
+  test = [
+    {tweet:0},
+    {tweet:1}
+  ];
+
   render() {
     return (
       <div className="App">
@@ -12,8 +19,16 @@ class App extends Component {
           <p>Will Fritz, Tommy Lynch</p>
         </header>
         <p className="App-intro">
-          I'm thinking we have a listview here, and then when the user clicks we have some data&charts render
+          Im thinking we have a listview here, and then when the user clicks we have some data&charts render
         </p>
+          <Row vertical='center'>
+            <Column flexGrow={1} horizontal='center'>
+              <h3>Model Graph {this.test[0].tweet}</h3>
+            </Column>
+            <Column flexGrow={1} horizontal='center'>
+              <h3>Model Graph {this.test[1].tweet}</h3>
+            </Column>
+          </Row>
       </div>
     );
   }
