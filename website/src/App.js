@@ -3,6 +3,8 @@ import { Column, Row } from 'simple-flexbox';
 //import logo from './logo.svg';
 import './App.css';
 
+
+
 class App extends Component {
 
   test = [
@@ -24,9 +26,13 @@ class App extends Component {
           <Row vertical='center'>
             <Column flexGrow={1} horizontal='center'>
               <h3>Model Graph {this.test[0].tweet}</h3>
+              <img src={'./images/test_2.png'}/>
+              <p>description</p>
             </Column>
             <Column flexGrow={1} horizontal='center'>
               <h3>Model Graph {this.test[1].tweet}</h3>
+              <img src={'./images/test_2.png'}/>
+              <p>description</p>
             </Column>
           </Row>
       </div>
