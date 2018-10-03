@@ -29,13 +29,12 @@ with open('companies.csv',"r+") as f:
         for i in range(1,len(query)-2):
             titles.append("key{0}".format(i))
         for i in range(0,len(query)-1):
-            print(i)
             path = "data/tweets/{0}/{1}-{2}.txt".format(DAY,query[0],titles[i])
             exists = os.path.isfile(path)
             if (exists==False):
                 touch(path)
                 wf = open(path,"r+")
-                que = query[i]
+                que = query[i].strip('\n')
                 data = api.search(q=que,count=1000)
                 for status in data:
                     try:
@@ -43,3 +42,4 @@ with open('companies.csv',"r+") as f:
                     except UnicodeEncodeError:
                         pass
                 wf.close()
+                print("Successfuly wrote {0} tweets to {1}\n\t\t\tusing search word {2}!".format(len(data),path,que))
