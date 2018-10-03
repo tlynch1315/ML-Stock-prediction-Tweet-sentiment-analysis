@@ -36,10 +36,10 @@ with open('companies.csv',"r+") as f:
                 touch(path)
                 wf = open(path,"r+")
                 que = query[i]
-                data = [status for status in tweepy.Cursor(api.search,q=que).items(100)]
+                data = api.search(q=que,count=1000)
                 for status in data:
                     try:
-                        wf.write("{0}".format(status))
+                        wf.write("{0}\n".format(status))
                     except UnicodeEncodeError:
                         pass
                 wf.close()
