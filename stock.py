@@ -23,8 +23,9 @@ with open('./stock_info.csv', 'w') as f:
         df = companies_dict[company]
         res = 0
         for index, row in df.iterrows():
+            pct_change = ((row['close']-row['open'])/row['open'])*100
             if row['open'] > row['close']:
                 res = 0
             else:
                 res = 1
-            f.write('{},{},{},{},{},{},{},{}\n'.format(company, res, index, row['open'],row['close'], row['high'], row['low'], row['volume']))
+            f.write('{},{},{},{},{},{},{},{},{}\n'.format(company, res, pct_change, index, row['open'],row['close'], row['high'], row['low'], row['volume']))
