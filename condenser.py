@@ -66,7 +66,7 @@ if __name__ == "__main__":
                         testimonial = TextBlob(ascii(tweet['text']))
                         polarity, confidence = testimonial.sentiment
                         value = polarity*confidence*float(float(tweet['user']['followers_count'])/float(total_followers))*float(change/openValue)
-                        writeData.append('{0},{1},{2},{3},{4},{5}\n'.format(tweet['user']['followers_count'],polarity,confidence,value,date,change))
+                        writeData.append('{0},{1},{2},{3},{4},{5},{6}\n'.format(tweet['user']['followers_count'],polarity,confidence,value,date,change,openValue))
 
                 except FileNotFoundError:
                     continue
