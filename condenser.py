@@ -72,7 +72,7 @@ if __name__ == "__main__":
                             continue
                 except FileNotFoundError:
                     continue
-            writePath ="data/clean/d{0}/{1}-cleaned.txt".format(DAY-3,query[0])
+            writePath ="data/clean/d{0}/{1}-cleaned.csv".format(DAY-3,query[0])
             print('Writing to {0} . . .'.format(writePath))
             exists = os.path.isfile(writePath)
             if (exists==False):
