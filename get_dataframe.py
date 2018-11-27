@@ -16,7 +16,7 @@ def get_dataframe():
         curr = []
         df = pd.DataFrame(columns=columns)
         for i in range(1, 23):
-            path = './data/clean/d{}/{}-cleaned.txt'.format(i, comp)
+            path = './data/clean/d{}/{}-cleaned.csv'.format(i, comp)
             data = pd.read_csv(path, names=columns)
             curr.append(data)
         frame = pd.concat(curr)
