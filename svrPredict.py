@@ -4,8 +4,10 @@ from sklearn.svm import SVR
 import matplotlib.pyplot as plt 
 from get_dataframe import *
 from sklearn.cross_validation import train_test_split
+import math
+from sklearn.metrics import r2_score
 
-def trainSVR(X, Y, kernelChoice, degreeChoice=3, gammaChoice=1e-5):
+def trainSVR(X, Y, kernelChoice, C=1, degreeChoice=3, gammaChoice=1e-5):
     if kernelChoice == "linear":
         mySVR = SVR(kernel = kernelChoice, C = 1)
     elif kernelChoice == "poly":
@@ -17,7 +19,43 @@ def trainSVR(X, Y, kernelChoice, degreeChoice=3, gammaChoice=1e-5):
 
     return mySVR.fit(X, Y)
 
-kernel = "linear"
+def getCompanyData(dictionary, companyName):
+    df = dictionary[companyName]
+    df = df.drop(['change', 'open'],axis=1)
+
+    grouped = df.groupby('date')
+
+    totalDays = len(grouped)
+    trainingDays = math.floor(0.75*totalDays)
+    testingDays = totalDays - trainingDays
+
+    dateList = [date for date in grouped]
+
+    trainList = dateList[:trainingDays]
+    testList = dateList[:testingDays]
+
+    trainDF = trainList.pop(0)[1]
+    testDF = testList.pop(0)[1]
+
+    for day in trainList:
+        trainDF = trainDF.append(day[1])
+
+    for day in testList:
+        testDF = testDF.append(day[1])
+
+    print(trainDF.head())
+    print(len(trainDF))
+    print(len(testDF))
+    print(len(grouped))
+    XTrainData = trainDF.drop(['value', 'date'], axis=1)
+    XTestData = testDF.drop(['value', 'date'],axis=1)
+
+    YTrainData = trainDF['value']
+    YTestData = testDF['value']
+
+    return XTrainData, XTestData, YTrainData, YTestData
+
+
 # total days = 23
 df = pd.read_csv("./final.csv")
 tweet_dict = get_dataframe()
@@ -34,34 +72,54 @@ with open('companies.csv', 'r') as f:
 
 print(companies)
 
-dfTesla = tweet_dict["Tesla"]
-XTesla = dfTesla.drop(['value', 'date', 'change', 'open'], axis=1)
+
+
+XTrainTesla, XTestTesla, YTrainTesla, YTestTesla = getCompanyData(tweet_dict, 'Tesla')
+
+# make numbers a little more intuitive to look at
+YTrainTesla *= 1000
+YTestTesla *= 1000
+
+
+"""
+dfTesla = dfTesla.drop([ 'change', 'open'], axis=1)
+
+groupedTesla = 
+
 YTesla = dfTesla['value'].astype(float)
-print(XTesla['followers'])
 XTesla['followers'] = XTesla['followers'].astype(float)
 XTesla['polarity'] = XTesla['polarity'].astype(float)
 XTesla['sentiment_confidence'] = XTesla['sentiment_confidence'].astype(float)
 
+XTesla = XTesla.groupby(date)
+
+# group by dates
+totalDays = len(XTesla)
+trainingDays = math.floor(0.75*totalDays)
+testingDays = totalDays - trainingDays
+for feature in XTesla:
+    XTesla.feature
+    print(days)
+
 XTrainTesla, XTestTesla, YTrainTesla, YTestTesla = train_test_split(XTesla.values, YTesla.values, random_state=42)
+"""
+kernel = "linear"
+svr_C = 100
+svr_degree = 2
+svr_gamma = 1e-5
+teslaSVR = trainSVR(XTrainTesla, YTrainTesla, "rbf", svr_C, svr_degree, svr_gamma)
 
-print("XTRAIN")
-print(XTrainTesla)
-print("YTRAIN")
-print(YTrainTesla)
-
-YTrainTesla *= 1000
-
-teslaSVR = trainSVR(XTrainTesla, YTrainTesla, "rbf")
+print(type(XTestTesla))
 YPredictTesla = []
-for tweet in XTestTesla:
-    print(tweet.reshape(1,-1))
-    YPredictTesla.append(teslaSVR.predict(tweet.reshape(1,-1)))
-YTestTesla *= 1000
-print(YTestTesla)
-print(YPredictTesla)
+for index,row in XTestTesla.iterrows():
+    YPredictTesla.append(teslaSVR.predict(row.reshape(1,-1)))
+
+print(type(YPredictTesla[0]))
+
 plt.plot(range(len(YTestTesla)),YTestTesla)
 plt.plot(range(len(YTestTesla)),YPredictTesla)
 plt.show()
+
 """
 print("5TH")
 print(dfTesla[dfTesla["date"] == "2018-10-05"]['change'][0])
