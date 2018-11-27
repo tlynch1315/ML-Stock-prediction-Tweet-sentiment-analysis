@@ -35,8 +35,9 @@ with open('companies.csv', 'r') as f:
 print(companies)
 
 dfTesla = tweet_dict["Tesla"]
-XTesla = dfTesla.drop(['value', 'date', 'change'], axis=1)
+XTesla = dfTesla.drop(['value', 'date', 'change', 'open'], axis=1)
 YTesla = dfTesla['value'].astype(float)
+print(XTesla['followers'])
 XTesla['followers'] = XTesla['followers'].astype(float)
 XTesla['polarity'] = XTesla['polarity'].astype(float)
 XTesla['sentiment_confidence'] = XTesla['sentiment_confidence'].astype(float)
@@ -44,12 +45,12 @@ print(dfTesla.shape)
 print(XTesla.shape)
 print(YTesla.shape)
 
-XTrainTesla, XTestTesla, YTrainTesla, YTestTesla = train_test_split(XTesla, YTesla, random_state=42)
+XTrainTesla, XTestTesla, YTrainTesla, YTestTesla = train_test_split(XTesla.values, YTesla.values, random_state=42)
 
-print(XTrainTesla.shape)
-print(YTrainTesla.shape)
+print(XTrainTesla.dtype)
+print(YTrainTesla.dtype)
 
-svr = trainSVR(XTrainTesla, YTrainTesla, "linear")
+svr = trainSVR(XTrainTesla, YTrainTesla, "rbf")
 """
 print("5TH")
 print(dfTesla[dfTesla["date"] == "2018-10-05"]['change'][0])
