@@ -5,17 +5,17 @@ import matplotlib.pyplot as plt
 from get_dataframe import *
 from sklearn.cross_validation import train_test_split
 
-def trainSVR(X, Y, kernelChoice, degreeChoice=3, gammaChoice=0.1):
+def trainSVR(X, Y, kernelChoice, degreeChoice=3, gammaChoice=1e-5):
     if kernelChoice == "linear":
-        svr = SVR(kernel = kernelChoice, C = '1e3')
+        mySVR = SVR(kernel = kernelChoice, C = 1)
     elif kernelChoice == "poly":
-        svr = SVR(kernel = kernelChoice, C = '1e3', degree = degreeChoice)
+        mySVR = SVR(kernel = kernelChoice, C = 1, degree = degreeChoice)
     elif kernelChoice == "rbf": 
-        svr = SVR(kernel = kernelChoice, C = '1e3', gamma = gammaChoice)
+        mySVR = SVR(kernel = kernelChoice, C = 100, gamma = gammaChoice)
     else:
         print("ERROR in trainSVR, do not recognize the following svr kernel choice: {}", kernelChoice)
 
-    return svr.fit(X, Y)
+    return mySVR.fit(X, Y)
 
 kernel = "linear"
 # total days = 23
@@ -41,16 +41,27 @@ print(XTesla['followers'])
 XTesla['followers'] = XTesla['followers'].astype(float)
 XTesla['polarity'] = XTesla['polarity'].astype(float)
 XTesla['sentiment_confidence'] = XTesla['sentiment_confidence'].astype(float)
-print(dfTesla.shape)
-print(XTesla.shape)
-print(YTesla.shape)
 
 XTrainTesla, XTestTesla, YTrainTesla, YTestTesla = train_test_split(XTesla.values, YTesla.values, random_state=42)
 
-print(XTrainTesla.dtype)
-print(YTrainTesla.dtype)
+print("XTRAIN")
+print(XTrainTesla)
+print("YTRAIN")
+print(YTrainTesla)
 
-svr = trainSVR(XTrainTesla, YTrainTesla, "rbf")
+YTrainTesla *= 1000
+
+teslaSVR = trainSVR(XTrainTesla, YTrainTesla, "rbf")
+YPredictTesla = []
+for tweet in XTestTesla:
+    print(tweet.reshape(1,-1))
+    YPredictTesla.append(teslaSVR.predict(tweet.reshape(1,-1)))
+YTestTesla *= 1000
+print(YTestTesla)
+print(YPredictTesla)
+plt.plot(range(len(YTestTesla)),YTestTesla)
+plt.plot(range(len(YTestTesla)),YPredictTesla)
+plt.show()
 """
 print("5TH")
 print(dfTesla[dfTesla["date"] == "2018-10-05"]['change'][0])
