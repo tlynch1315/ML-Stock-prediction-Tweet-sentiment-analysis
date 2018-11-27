@@ -62,14 +62,12 @@ if __name__ == "__main__":
                         except UnicodeEncodeError:
                             continue
                     for twt in data:
-                        try:
-                            tweet = json.loads(twt)
-                            testimonial = TextBlob(tweet['text'])
-                            polarity, confidence = testimonial.sentiment
-                            value = polarity*confidence*float(float(tweet['user']['followers_count'])/float(total_followers))*float(change/openValue)
-                            writeData.append('{0},{1},{2},{3}\n'.format(tweet['user']['followers_count'],polarity,confidence,value))
-                        except UnicodeEncodeError:
-                            continue
+                        tweet = json.loads(twt)
+                        testimonial = TextBlob(ascii(tweet['text']))
+                        polarity, confidence = testimonial.sentiment
+                        value = polarity*confidence*float(float(tweet['user']['followers_count'])/float(total_followers))*float(change/openValue)
+                        writeData.append('{0},{1},{2},{3},{4},{5}\n'.format(tweet['user']['followers_count'],polarity,confidence,value,date,change))
+
                 except FileNotFoundError:
                     continue
             writePath ="data/clean/d{0}/{1}-cleaned.csv".format(DAY-3,query[0])
