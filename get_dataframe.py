@@ -1,7 +1,7 @@
 import pandas as pd
 
 def get_dataframe():
-    columns = ['followers', 'polarity', 'sentiment_confidence', 'value']
+    columns = ['followers', 'polarity', 'sentiment_confidence', 'value', 'date', 'change']
     companies = []
 
     with open('companies.csv', 'r') as f:
