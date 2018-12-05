@@ -10,7 +10,7 @@ map_dict = {1:'2018-10-05',2:'2018-10-08',3:'2018-10-08',4:'2018-10-09',5:'2018-
 
 ### READ STOCK INFO ###
 stocks = {}
-with open('stock_info.csv','r+') as f:
+with open('stock_prev_info.csv','r+') as f:
     text = f.readlines()
     for line in text:
         split = line.split(',')
@@ -47,9 +47,12 @@ if __name__ == "__main__":
                 titles.append("key{0}".format(i))
             ### FIND MATCHING STOCK DATA POINT ###
             for line in stocks[company]:
-                if str(line[2])==str(date):
+                print(line)
+                print(date)
+                if str(line[3])==str(date):
                     stock_data_point = line
             ### GENERATE FEATURES ###
+            print(stock_data_point)
             change = float(stock_data_point[4])-float(stock_data_point[3])
             openValue =  float(stock_data_point[3])
             writeData = []
