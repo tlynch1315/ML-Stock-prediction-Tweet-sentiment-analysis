@@ -1,1 +1,79 @@
-Polarity,Subjectivity,Retweets,Favorites,Followers0.0,0.0,5993,0,1240.0,0.0,4267,0,920.0,0.0,87,0,11270.0,0.0,4267,0,1070.0,0.0,4,0,2519-0.2,0.1,13382,0,20.0,0.0,4267,0,828-0.2,0.1,13382,0,50.0,0.0,4267,0,110.0,0.0,36701,0,860.0,0.0,4267,0,14640.0,0.0,36701,0,6200.0,0.0,4267,0,510.0,0.0,113,0,43500.5,1.0,4,0,25190.0,0.0,36701,0,3160.0,0.0,4267,0,2860.12878787878787878,0.4681818181818182,413,0,2250.625,0.275,19,0,1940.0,0.0,4267,0,213-0.2,0.1,13382,0,3060.5,1.0,4,0,43500.0,0.0,36701,0,3560.0,0.0,4267,0,5720.0,0.0,4267,0,890.0,0.0,16,0,226500.0,0.0,36701,0,390.0,0.0,4267,0,730.0,0.0,36701,0,5710.0,0.0,4267,0,1830.0,0.0,5993,0,6350.12878787878787878,0.4681818181818182,413,0,5400.0,0.0,229,0,130.0,0.0,36701,0,9520.0,0.0,0,0,00.0,0.0,4,0,43500.0,0.0,4267,0,4040.0,0.0,36701,0,3170.0,0.0,4,0,43500.4,1.0,74,0,149-0.13333333333333333,0.6,0,0,720.0,0.0,4267,0,9020.0,0.0,5993,0,2310.0,0.0,0,0,540.0,0.0,4267,0,1340.0,0.0,4,0,43500.0,0.0,36701,0,4970.0,0.0,44,0,34694-0.14583333333333334,0.8333333333333333,0,0,16430.0,0.0,4267,0,9530.0,0.0,4267,0,4060.6,1.0,0,0,13480.0,0.0,7,0,60750.0,0.0,77,0,346940.0,0.0,36701,0,5160.0,0.0,4267,0,730.0,0.0,7,0,60750.0,0.0,4267,0,13620.0,0.0,78,0,346940.08255208333333333,0.23333333333333334,0,0,310.0,0.0,0,2,3103-0.4125,0.6875,2,0,4680.0,0.0,4267,0,405-0.2,0.1,13382,0,130.0,0.0,4267,0,2660.0,0.0,87,0,9780.5,0.6,0,1,18660.0,0.0,4267,0,19690.0,0.0,4267,0,4760.0,0.0,36701,0,1460.5,1.0,0,0,70.0,0.0,36701,0,2600.0,0.0,4267,0,3380.0,0.0,4267,0,3240.0,0.375,7,0,4860.12878787878787878,0.4681818181818182,413,0,20350.0,0.0,4267,0,4590.0,0.0,5993,0,2600.0,0.0,3228,0,2130.0,0.0,0,0,3580.0,0.0,36701,0,1350.0,0.0,4267,0,14620.0,0.0,36701,0,1920.0,0.0,36701,0,2400.0,0.0,4267,0,2740.0,0.0,36701,0,900.0,0.0,4267,0,14420.0,0.0,4267,0,6080.0,0.0,4267,0,860.0,0.0,5993,0,8500.0,0.0,4267,0,2730.0,0.0,4267,0,680.5,0.7,64,0,6960.0,0.0,36701,0,270.0,0.0,36701,0,123
+RT @xxkinzikaeser: “yOu NeVeR sNaPcHaT BaCk” 
+
+I know stop snapchatting me,0.0,0.0,5993,0,124,193RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,92,163RT @ShellyCherette: girls who played with bratz dolls instead of barbies all have premium snapchat accounts now,0.0,0.0,87,0,1127,257RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,107,479RT @lay_studio: #producerLayZhang shared a few thoughts about music and life with Snapchat. We can’t wait to see the filters @LAY_zhang_ ch…,-0.2,0.1,13382,0,2,55RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,828,677RT @lay_studio: #producerLayZhang shared a few thoughts about music and life with Snapchat. We can’t wait to see the filters @LAY_zhang_ ch…,-0.2,0.1,13382,0,5,50RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,11,40RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,1464,991RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,51,46RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,286,242RT @FMitchell84: So these 2 smoking hot chicks were all over me at the bar. Extra aggressive..I thought it was my new cologne no joke. Then…,0.12878787878787878,0.4681818181818182,413,0,225,351RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,213,95RT @lay_studio: #producerLayZhang shared a few thoughts about music and life with Snapchat. We can’t wait to see the filters @LAY_zhang_ ch…,-0.2,0.1,13382,0,306,244RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,572,496RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,89,252RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,73,450RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,183,308RT @xxkinzikaeser: “yOu NeVeR sNaPcHaT BaCk” 
+
+I know stop snapchatting me,0.0,0.0,5993,0,635,396RT @FMitchell84: So these 2 smoking hot chicks were all over me at the bar. Extra aggressive..I thought it was my new cologne no joke. Then…,0.12878787878787878,0.4681818181818182,413,0,540,345RT @YokoNoire: Tout le monde sort un album sauf JB Mpiana, faut le priver de Snapchat.,0.0,0.0,229,0,13,11HEY @Snapchat! Sending videos and posting videos to my story hasn't worked on my Pixel 3 since I got it! What gives??,0.0,0.0,0,0,0,16RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,404,364RT @BaeconGirl: james reid doing snapchat with the important girls in his life https://t.co/wUtPFw81Tv,0.4,1.0,74,0,149,271500 million monthly active users of @tiktok_us #tweenculture https://t.co/vf7JS3TVOp,-0.13333333333333333,0.6,0,0,72,146RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,902,249RT @xxkinzikaeser: “yOu NeVeR sNaPcHaT BaCk” 
+
+I know stop snapchatting me,0.0,0.0,5993,0,231,193RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,134,496just seen my pants on Rhonas snapchat story super sorry about that! and we’re not friends anymore either for anyone wondering,-0.14583333333333334,0.8333333333333333,0,0,1643,1002RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,953,379RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,406,752RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,73,74RT @aljoory4222222: https://t.co/U4rZF4P7QC https://t.co/nCXAyQlcPC,0.0,0.0,7,0,6075,6278RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,1362,880RT @ReyRatedR: why do people call other people ugly but don't even have a picture of themselves on their account like u gotta go thru month…,-0.4125,0.6875,2,0,468,113RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,405,308RT @lay_studio: #producerLayZhang shared a few thoughts about music and life with Snapchat. We can’t wait to see the filters @LAY_zhang_ ch…,-0.2,0.1,13382,0,13,265RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,266,143RT @ShellyCherette: girls who played with bratz dolls instead of barbies all have premium snapchat accounts now,0.0,0.0,87,0,978,412RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,1969,1288RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,476,295This Snapchat filter is so cute https://t.co/h7U4P5F9de,0.5,1.0,0,0,7,15RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,338,300RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,324,634RT @3rdeniz_: My snapchat just consists of me talking to my self on my private story now,0.0,0.375,7,0,486,382RT @FMitchell84: So these 2 smoking hot chicks were all over me at the bar. Extra aggressive..I thought it was my new cologne no joke. Then…,0.12878787878787878,0.4681818181818182,413,0,2035,2644RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,459,462RT @xxkinzikaeser: “yOu NeVeR sNaPcHaT BaCk” 
+
+I know stop snapchatting me,0.0,0.0,5993,0,260,83RT @KonbiniFr: Djadja ou Dadju ? Instagram ou Snapchat ? Awa Imani ou Bilal Hassani ?
+
+Pour la sortie de son dernier album "Nakamura", voic…,0.0,0.0,3228,0,213,1687@pgrumampuk mau nge snap tapi tida punya snapchat hehehjejehk,0.0,0.0,0,0,358,185RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,1462,3475RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,274,215RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,1442,198RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,608,602RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,86,129RT @xxkinzikaeser: “yOu NeVeR sNaPcHaT BaCk” 
+
+I know stop snapchatting me,0.0,0.0,5993,0,850,454RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,273,146RT @LilNasX: nobody: 
+
+nigga who smokes weed on snapchat all day: i know they praying on my downfall,0.0,0.0,4267,0,68,110RT @BlakeBusha: if you’re in a relationship &amp; entertaining anyone else via Snapchat/Text you is cheating,0.5,0.7,64,0,696,416
