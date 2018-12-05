@@ -24,14 +24,13 @@ def touch(path):
         os.utime(path,None)
 
 if __name__ == "__main__":
-
     ### GRAB COMPANY DATA ###
     line = []
     with open('companies.csv',"r+") as f:
         lines = f.readlines()
     f.close()
     titles = ["name","ticker","ceo"]
-
+    ### FOR EVERY DAY ###
     for DAY in range(4,26):
         ### INITS ###
         n = 0
@@ -74,15 +73,12 @@ if __name__ == "__main__":
                         ### GENERATE PROPORTIONAL dVALUE ###
                         for twt in data:
                             tweet = json.loads(twt)
+                            date = tweet['date']
                             testimonial = TextBlob(ascii(tweet['text']))
                             polarity, confidence = testimonial.sentiment
                             value = polarity*confidence*float(float(tweet['user']['followers_count'])/float(total_followers))*float(change/openValue)
-                            ### MAKE NON-ZERO ###
-                            #if value!=0:
-                            #    writeData.append('{0},{1},{2},{3},{4},{5},{6}\n'.format(tweet['user']['followers_count'],polarity,confidence,value,date,change,openValue))
-
-                            ### MIN MAX NORMALIZATION ###
-
+                            writeData.append('{0},{1},{2},{3}'.format(tweet['user']['follower_count'],polarity,confidence,value))
+                    ### EXCEPTION ###
                     except FileNotFoundError:
                         continue
 
