@@ -1,1 +1,274 @@
-Polarity,Subjectivity,Retweets,Favorites,Followers0.0,0.0,65074,0,5060.0,0.0,65074,0,1790.0,0.0,65074,0,470.0,0.0,65074,0,2700.0,0.0,29,0,100.0,0.0,65074,0,25610.0,0.0,0,0,1120.0,0.0,0,0,280.0,0.0,65074,0,3950.0,0.0,65074,0,6400.0,0.0,65074,0,950.0,0.0,65074,0,230.0,0.0,65074,0,1560.0,0.0,65074,0,360.0,0.0,138,0,11960.0,0.0,65074,0,2450.0,0.0,65074,0,940.0,0.0,65074,0,6790.0,0.0,0,0,1070.0,0.0,65074,0,10270.0,0.0,65074,0,3710.0,0.0,65074,0,1880.4,0.4,2,0,1160.0,0.0,0,0,9-0.3,0.1,0,0,1700.0,0.0,0,0,00.25,0.3125,0,0,160.0,0.0,65074,0,7600.0,0.0,65074,0,630.0,0.0,65074,0,14260.0,0.0,65074,0,840.0,0.0,65074,0,7920.0,0.0,65074,0,680.13636363636363635,0.45454545454545453,1,0,1050.25,0.3333333333333333,0,0,11870.0,0.0,65074,0,8530.5,0.5,0,0,123910.5,0.5,0,0,364380.0,0.0,65074,0,2080.0,0.0,0,0,1350.0,0.0,65074,0,1540.0,0.0,65074,0,301-0.4,0.7,2,0,226760.0,0.0,65074,0,70.0,0.0,65074,0,5620.0,0.0,0,0,350.0,0.0,0,0,54250.0,0.0,1,0,4660.05,0.13333333333333333,0,0,530.1,0.8,0,1,1590.0,0.0,65074,0,820.0,0.0,65074,0,111-0.020833333333333332,0.673611111111111,47,0,14530.0,0.0,65074,0,3210.0,0.0,65074,0,1070.0,0.0,65074,0,2320.0,0.0,65074,0,7130.0,0.0,65074,0,1850.0,0.0,65074,0,326-0.1875,0.5,0,0,108-0.1875,0.5,0,0,1080.0,0.0,138,0,13300.0,0.0,0,0,857-0.1875,0.5,0,0,1080.0,0.0,65074,0,2960.018749999999999996,0.29166666666666663,0,0,530.0,0.0,65074,0,7390.0,0.0,65074,0,350.0,0.0,65074,0,2240.25,0.5,1,0,341170.0,0.0,65074,0,2650.0,0.0,65074,0,832-0.4,0.7,2,1,96840.0,0.0,0,0,11630.0,0.0,65074,0,2840.0,0.0,0,0,539440.375,0.75,0,1,5220.0,0.0,1,3,16320.0,0.0,65074,0,500.0,0.0,138,0,33980.0,0.0,65074,0,15930.0,0.0,0,0,280.0909090909090909,0.3181818181818182,0,0,2230.0,0.0,65074,0,1280.0,0.125,0,0,20.0,0.0,6,0,870.0,0.0,65074,0,1240.4,0.8,8,0,870.6,1.0,0,0,23-0.375,0.575,0,0,500.0,0.0,138,0,89130.0,0.0,65074,0,7160.0,0.0,65074,0,405-0.3,0.39999999999999997,0,0,530.0,0.0,65074,0,5690.0,0.0,138,0,20560.0,0.0,65074,0,2790.5,1.0,0,2,5220.0909090909090909,0.3181818181818182,0,0,12450.0,0.0,65074,0,151
+RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,506,584RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,179,146RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,47,111RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,270,352RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,2561,794Join Verizon on Oct. 10 at 3:30 p.m. ET to celebrate #HispanicHeritageMonth with a conversation with HBO's Bernadet… https://t.co/s9E2nUxLN9,0.0,0.0,0,0,28,56RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,395,306RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,640,653RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,95,111RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,23,166RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,156,266RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,36,110RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,245,201RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,94,244RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,679,575Google Pixel 3 hits Verizon website ahead of launch, confirms basically everything https://t.co/VtSPLoOim8,0.0,0.0,0,0,107,98RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,1027,639RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,371,419RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,188,181RT @thekenyeung: Pixel 3 is available now for preorder at a price of $799.
+
+October 18 available on Verizon.
+
+#madebygoogle,0.4,0.4,2,0,116,309die verizon,0.0,0.0,0,0,9,0@JohnLegere @verizon @TMobile Whoever photoshopped this keeps their job and whoever ordered them to do so loses theirs,-0.3,0.1,0,0,170,78@realDonaldTrump get the @FTC and @FCC to regulate robocalls and spoofers. When @att @verizon and @TMobile charge c… https://t.co/mVZmTOQyvm,0.0,0.0,0,0,0,9The future is here! More places should follow @Verizon and Sacramento’s  example, and use technology to make cities… https://t.co/fp9TSiVZDD,0.25,0.3125,0,0,16,59RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,760,369RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,63,66RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,1426,998RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,84,158RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,792,563RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,68,128RT @TZ1176: @JohnLegere @verizon @TMobile Any deal to bring your new pixel to T-Mobile?,0.13636363636363635,0.45454545454545453,1,0,105,214RT @iTech911: @Verizon Launches “World’s First” 5G Network In Select Regions. #Houston, #Indianapolis, #LosAngeles, and #Sacramento. https:…,0.25,0.3333333333333333,0,0,1187,3019RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,853,637Bloomberg: Verizon CEO looks to shake up top ranks in 5G push https://t.co/QX5wJ1H1pG $S $TMUS $T $VZ,0.5,0.5,0,0,12391,9Bloomberg: Verizon CEO looks to shake up top ranks in 5G push https://t.co/r7ZniA1xyK $S $TMUS $T $VZ,0.5,0.5,0,0,36438,9RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,208,177I switched from @sprint to @verizon to see what all the hype was and man o man I’m having second thoughts on going… https://t.co/72GtbJTTaV,0.0,0.0,0,0,135,149RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,154,263RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,301,185RT @rossrubin: Ah, there you go. Google CHOSE Verizon. Apple and Samsung just hopelessly confused when it comes to choosing a carrier. @sas…,-0.4,0.7,2,0,22676,1136RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,7,51RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,562,375@JohnLegere @verizon @TMobile Watch when the oneplus6t comes to tmobile ppl be like pixel who,0.0,0.0,0,0,35,203PSA "DO NOT" BUY PIXEL 3 IF YOU HAVE VERIZON OR SPRINT! https://t.co/1hoLkFmLdX via @YouTube,0.0,0.0,0,0,5425,1423RT @Wirelessmom4: Google + Verizon’s network = Unrivaled experience and performance #fearless #pixel3 #vz https://t.co/mJtaOOcvyB,0.0,0.0,1,0,466,393@VerizonSupport @verizon  this has been an ongoing issue the last 30 years and it takes weeks to get fixed. We do n… https://t.co/d5J4VYlUzn,0.05,0.13333333333333333,0,0,53,224@JohnLegere @verizon @TMobile My pixel 2 runs really fast on Google Fi...but only when it's connected to T-Mobile towers &gt;.&gt;,0.1,0.8,0,1,159,544RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,82,105RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,111,206RT @TayOnTech: I've finally finished my website. You guys should check out my first article, it would mean a lot. https://t.co/HohGh7XQan,-0.020833333333333332,0.673611111111111,47,0,1453,996RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,321,225RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,107,235RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,232,91RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,713,998RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,185,301RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,326,270I'm going to @State_Champs at Verizon Arena in North Little Rock, AR - Oct 9 https://t.co/hCyPKlOSJ9,-0.1875,0.5,0,0,108,794I'm going to @machinegunkelly at Verizon Arena in North Little Rock, AR - Oct 9 https://t.co/r17vEtTUNu,-0.1875,0.5,0,0,108,794*switches to verizon* https://t.co/KaORU4VTsu,0.0,0.0,0,0,857,439I'm going to @falloutboy at Verizon Arena in North Little Rock, AR - Oct 9 https://t.co/5FXO5e4RLo,-0.1875,0.5,0,0,108,794RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,296,272@VerizonSupport @verizon that the phone line was fixed. Clearly not! Now there is someone on the phone arguing they… https://t.co/0mTEQJMWZG,0.018749999999999996,0.29166666666666663,0,0,53,224RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,739,474RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,35,174RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,224,268RT @VZBizMarkets: Want to learn how to find bigger, better and higher-paying clients? #Smallbusiness columnist @SteveStrauss will show you…,0.25,0.5,1,0,34117,19476RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,265,901RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,832,254Ah, there you go. Google CHOSE Verizon. Apple and Samsung just hopelessly confused when it comes to choosing a carr… https://t.co/j6bJ9q9ZVI,-0.4,0.7,2,1,9684,2868Verizon tonight to see my nigga MGk bihhh,0.0,0.0,0,0,1163,1633RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,284,719[Update: AT&amp;T G6 too] Android 8.0 Oreo rolling out to LG G6 on Verizon https://t.co/OSDrlDCUAe #gamedev #indiedev https://t.co/g1FHNaZkFy,0.0,0.0,0,0,53944,2478@Drunkenbillygo1 Thank you brother, I’m so beyond excited to start my career with Verizon,0.375,0.75,0,1,522,380Google + Verizon’s network = Unrivaled experience and performance #fearless #pixel3 #vz https://t.co/mJtaOOcvyB,0.0,0.0,1,3,1632,184RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,50,147RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,1593,897@JohnLegere @verizon @TMobile But I can't use jump to upgrade to it,0.0,0.0,0,0,28,262After a two week break, we are back with a new episode - Verizon 5G goes live, Microsoft’s Project xCloud, Feds sue… https://t.co/XP5eWw0vZc,0.0909090909090909,0.3181818181818182,0,0,223,295RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,128,279Independent 5G test praises Verizon’s speed and wireless performance https://t.co/LXD71wKr86 https://t.co/dY9xb9jazI,0.0,0.125,0,0,2,6RT @droid_life: Verizon scores Pixel 3 exclusive, according to T-Mobile. 
+
+https://t.co/hJ31EiyZrx,0.0,0.0,6,0,87,548RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,124,116RT @droid_life: Pixel 3 Pricing May Start at $799.99 at Verizon, Plus BOGO and Free Pixel Stand. #pixel3 
+
+https://t.co/rhU5nAIDnF,0.4,0.8,8,0,87,548@Ask_Spectrum @GetSpectrum One reason for buying your own smartphone is so that it can be unlocked and moved to oth… https://t.co/b1PO4rT0Ed,0.6,1.0,0,0,23,54@JohnLegere @verizon @TMobile Another year, another device not available if you have JUMP!  So lame,-0.375,0.575,0,0,50,150RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,716,385RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,405,169@VerizonSupport @verizon Having the worst time trying to get our telephone line fixed. We have called several times… https://t.co/kQ7GYlx495,-0.3,0.39999999999999997,0,0,53,224RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,569,554RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,279,481Pleased to announce that I’ve accepted the job at Verizon as a Fios Technician and leave the 22nd for training in L… https://t.co/gPhQHPccjF,0.5,1.0,0,2,522,380After a two week break, we are back with a new episode of @thewavesoftech - Verizon 5G goes live, Microsoft’s Proje… https://t.co/HFdaixlczu,0.0909090909090909,0.3181818181818182,0,0,1245,401RT @jay_deandre7: NOW HIRING: 
+Fed Ex (877) 716-8753 , 
+Home Depot (877) 967-5443 , 
+U.P.S (888) 877-0922 ,
+Verizon (800) 511-8086, 
+STAPLE…,0.0,0.0,65074,0,151,565

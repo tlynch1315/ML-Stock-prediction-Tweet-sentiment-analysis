@@ -1,1 +1,62 @@
-Polarity,Subjectivity,Retweets,Favorites,Followers0.0,0.0,1,0,120.0,0.0,1,0,700.0,0.0,0,0,120-0.1851851851851852,0.312962962962963,0,0,9350.0,0.0,0,0,6380.0,0.0,0,0,1130.0,0.0,0,0,2760.0,0.0,0,0,1260.0,0.0,1452,0,3040.0,0.0,0,0,38560.25,0.25,0,0,2650.0,0.0,0,1,2660.0,0.0,0,0,4730.0,0.0,2,0,58080.3375,0.9472222222222222,0,0,40.3333333333333333,0.3333333333333333,0,0,40.0,0.0,0,0,61640.4,0.8,0,0,00.0,0.0,10,0,3970.6,0.8,0,0,20.0,0.1,0,0,1200.0,0.0,0,0,400.0,0.0,0,0,3410.25,0.3333333333333333,3,0,91.0,0.3,0,0,210.0,0.0,0,0,162-0.15,0.43333333333333335,556,0,3830.0,0.0,47,0,26730.0,0.0,0,0,400.5,0.6,237,0,241-0.07142857142857142,0.21428571428571427,0,0,9150.0,0.0,4,0,51900.0,0.0,3,0,62390.3,0.3416666666666666,0,0,1360.0,0.0,0,0,40-0.3,0.4,0,0,20.0,0.0,0,0,41030.0,0.0,0,0,400.0,0.0,0,0,53230.0,0.0,29582,0,400.0,0.0,0,3,212660.0,0.0,795,0,525-0.13333333333333333,0.4666666666666666,0,0,22820.0,0.0,9,0,160.0,0.0,2,0,13530.0,0.0,3,0,42510.0,0.0,0,1,3470.0,0.0,0,0,500.2,0.6,0,0,6110.0,0.0,0,0,6110.0,0.0,26,0,2060.2,0.5,1,0,5460.0,0.0,10,0,16080.0,0.0,0,0,450-0.04999999999999999,0.7,0,0,1620.0,0.0,0,1,4670.5,0.6,237,0,27990.2,0.5,1,1,199-0.15,0.5,0,0,150.0,0.0,82,0,955-0.7999999999999999,1.0,1,0,3690.0,0.0,0,0,1410.5,0.6,237,0,13020.0,0.0,0,2,450-0.16666666666666666,0.43333333333333335,0,0,60.0,0.0,599,0,10080.0,0.0,36,0,1259-0.45000000000000007,0.5,1,0,1630.0,0.0,13,0,6570.0,0.0,2,0,1400.0,0.0,29,0,2170.5,0.6,237,0,2720.0,0.0,0,0,00.0,0.0,0,0,29680.0,0.0,0,0,7920.0,0.0,0,0,1400.0,0.0,1,0,95660.0,0.0,164,0,6570.0,0.0,0,0,620.125,0.6666666666666666,0,1,91060.0,0.0,0,0,35320.0,0.0,0,0,78-0.8,0.9,0,0,25550.0,0.0,15,0,30670.47857142857142854,0.7607142857142857,0,0,780.0,0.0,29582,0,00.0,0.0,3,0,6570.0,1.0,6,0,2880.0,0.0,14,0,1330.0,0.0,47,0,3710.0,0.0,0,0,100.0,0.0,29582,0,50.0,0.0,8,0,6570.0625,0.375,0,1,1330.2,0.2,0,0,20.0,0.0,905,0,8000.3333333333333333,0.3333333333333333,42,0,30.0,0.0,343,0,1470.5,0.5,0,0,91060.0,0.03333333333333333,0,0,9106
+RT @CseeThru: SONY https://t.co/tL8qNlYqpz,0.0,0.0,1,0,70,1361What is with Sony's recent hammering down on any game with titties I don't even care about any of them but even fuc… https://t.co/11eBWmIwTn,-0.1851851851851852,0.312962962962963,0,0,935,602No es sony, no es Nintendo es ella que te está mintiendo,0.0,0.0,0,0,638,671@Mariac_Soy Que esta dando en Sony. ?,0.0,0.0,0,0,113,144I added a video to a @YouTube playlist https://t.co/5xqyvPOUMs The Media Reviewer #1: Illumination vs Sony,0.0,0.0,0,0,126,164@MatthewBerryTMR @broncobecka @ESPNFantasy Still a better reality player than fantasy imo. Atleast that’s how I feel with Sony coming back.,0.25,0.25,0,0,265,713Com o sucesso de bilheteria de Venom, Sony deseja não mais liberar o Homem-Aranha para os filmes da Marvel Studios https://t.co/TEj2opKWWm,0.0,0.0,0,0,473,294RT @MelvinEmory: @heyjude1141 @EllenBarkin @CHEF_JD81 @VivMilano @SBabwiriza @ccsnumbr1fan @darrenpaulkent @Lavish_Fixation @jennyphoenix @…,0.0,0.0,2,0,5808,5348To be honest I’m pretty sure every xbox user is fed up especially when they can’t play games after paying $60 a yea… https://t.co/BLggnNFcr7,0.3375,0.9472222222222222,0,0,4,17@majornelson please step up ur employees. I think Sony might be 1. More reliable and 2. A better company overall wi… https://t.co/fJlm0rY7iv,0.3333333333333333,0.3333333333333333,0,0,4,17@AaronThomas2001 screw sony i need to play multiplayer asap,0.0,0.0,0,0,6164,6194J'aime une vidéo @YouTube : "Free Fortnite Transition pack // Sony Vegas pro 13/14/15 // Transitions used by Fortnite Youtubers" à,0.4,0.8,0,0,0,20RT @ramirezdo: Ya lo único farandulero que le falta a Duque es salir desnudo en Soho.
+@Marianiniecheve @ANNALVAREZG @juancadelgado @edywfer…,0.0,0.0,10,0,397,2227This weekend will be a big one for Fede Álvarez! #thegirlinthespidersweb #FedeÁlvarez #sony
+#sonypictures
+How Girl… https://t.co/fYmTJJt3EW,0.0,0.1,0,0,120,491Sony a7r ii kenapa mahal si,0.0,0.0,0,0,341,1072Adicionei um vídeo a uma playlist @YouTube https://t.co/hy48lECAem MELHOR CANCELAMENTO de RUÍDO da SONY ganhou uma atualização! |,0.0,0.0,0,0,162,882RT @AdamSchefter: After missing the past two games with a knee injury, Patriots’ RB Sony Michel is likely to return Sunday vs. Titans, per…,-0.15,0.43333333333333335,556,0,383,1322RT @Kmagazinemx: #Klovers, Sony Music Mexico está pasando la conferencia de prensa con #SuperJunior de hoy en la mañana, les dejamos el lin…,0.0,0.0,47,0,2673,2676Sony Xperia XZ3 - The Sony Phone I've Been Waiting For! https://t.co/vcMsZ10EdC via @YouTube,0.0,0.0,0,0,40,2RT @Sony: One taught me love.
+One taught me patience.
+One taught me pain.
+
+#Timeless https://t.co/DIzZ2UvJ1J,0.5,0.6,237,0,241,1026@imperiumblue MALDITO SONY MUSIC YA NI PORQUE COMPRE DOS VECES EL SINGLE,-0.07142857142857142,0.21428571428571427,0,0,915,599RT @karlativist: "queridas" sony music, columbia, maverick e afins, se vocês não promoverem o álbum da lauren quando for lançado, eu vou en…,0.0,0.0,3,0,6239,4594@pala_sun I’m in the same boat. Most people say Bose. A lot also say Sony because you can customize the sound, but… https://t.co/wCbwn0mTjK,0.3,0.3416666666666666,0,0,136,497@XboxSupport At least where not on Sony and having out credit card info stolen so everyone stop complaining,-0.3,0.4,0,0,2,10Sony Xperia Slide Introduction Concept Design, Foldable Smartphone Kille... https://t.co/Rp8oBLyjXL via @YouTube,0.0,0.0,0,0,40,24TH YouTH ODI
+BANu19 155/6 22/22
+T Hridoy 59*
+Shamim 25
+Pritom 24
+R Sanjaya 3/29
+SLu19 34/5 8.5/22
+Dinusha 9
+Nipun 7
+T Hridoy 3/8
+
+No Result,0.0,0.0,0,0,5323,9RT @Rubiu5: No es Sony, no es Nintendo, es ella que te esta mintiendo,0.0,0.0,29582,0,40,65RT @Sony: She. Did. That. #MTVEMA (@Camila_Cabello) https://t.co/Sqo3xfgbM8,0.0,0.0,795,0,525,287Check out USED PS2 Game Disc Only Devil May Cry JAPAN Sony PlayStation 2 import Japanese  https://t.co/91309BhvP6 via @eBay,-0.13333333333333333,0.4666666666666666,0,0,2282,2498RT @karlativist: "queridas" sony music, columbia, maverick e afins, se vocês não promoverem o álbum da lauren quando for lançado, eu vou en…,0.0,0.0,3,0,4251,4661News:
+Pakistani Fast Bowler Mohammad Amir Sharjah T10 League Mein Shirkat Karein Gein.
+#T10League
+-
+"TauSeeF_M^S",0.2,0.6,0,0,611,20ToDaY_MaTcH
+-
+1sT_ODI
+PAK_vs_NZ
+Time_4:00pm
+At_Abu Dhabi.
+-
+"TauSeeF_M^S",0.0,0.0,0,0,611,20RT @enlasombra123: Sony México en Facebook @laliespos firma de Discos son 300 brazaletes el 9 de noviembre en Monterrey https://t.co/srkN7w…,0.0,0.0,26,0,206,95RT @greenyphatomtxt: Sony Wonder.... hahahaha, I get the joke.,0.2,0.5,1,0,546,66RT @ramirezdo: Ya lo único farandulero que le falta a Duque es salir desnudo en Soho.
+@Marianiniecheve @ANNALVAREZG @juancadelgado @edywfer…,0.0,0.0,10,0,1608,674@ZakNovaSpiers @_LUKE97 @IGN Now we go pro league what does switch have. Smash, what does micro/Sony have... everyt… https://t.co/174Y5Gv6wL,0.0,0.0,0,0,450,563You know @Microsoft and @Xbox id really love to play the fucking games ive purchased and downloaded but for the 8th… https://t.co/LT2BIOgDkt,-0.04999999999999999,0.7,0,0,162,558RT @Sony: One taught me love.
+One taught me patience.
+One taught me pain.
+
+#Timeless https://t.co/DIzZ2UvJ1J,0.5,0.6,237,0,2799,253Sony Wonder.... hahahaha, I get the joke.,0.2,0.5,1,1,199,2@XboxSupport y'all can eat a whole fucking dick. This shit is a joke. Second time this had happened to me. There is… https://t.co/4Vic1qbobW,-0.15,0.5,0,0,15,100RT @TheCaptain66453: ''Sony is not that stupid''
+
+Estas hablando del estudio que quería hacer una película de la Tía May siendo espía. http…,-0.7999999999999999,1.0,1,0,369,244RT @Sony: One taught me love.
+One taught me patience.
+One taught me pain.
+
+#Timeless https://t.co/DIzZ2UvJ1J,0.5,0.6,237,0,1302,455@ZakNovaSpiers @_LUKE97 @IGN Yeah and no one denied that, but smash alone cannot Make switch compete    cuz it be l… https://t.co/Ms2nGCY48n,0.0,0.0,0,2,450,563Black Friday 2018 Ads: Target's Biggest Deals https://t.co/1Mof0axIDk  0,-0.16666666666666666,0.43333333333333335,0,0,6,55RT @FREESTYL3__: tremendo sony https://t.co/EIh0LhsoZR,0.0,0.0,599,0,1008,845RT @RexConLentes: Auxilio me desmayo, cállese viejo lesbiano
+Mira una bruja, cállese vieja piruja
+No es Trump, ni Obama, es ella que no te…,0.0,0.0,36,0,1259,870RT @EliteGamingGur1: So NOBODY thinks Sony are false advertising and Nobody thinks the game is exclusive huh! @ysobad https://t.co/2rJciZW1…,-0.45000000000000007,0.5,1,0,163,243RT @Alpa_chin0: No es sony no es Nintendo es ella que te esta mintiendo,0.0,0.0,29,0,217,166RT @Sony: One taught me love.
+One taught me patience.
+One taught me pain.
+
+#Timeless https://t.co/DIzZ2UvJ1J,0.5,0.6,237,0,272,353El próximo episodio de @sharktankcol con Torta Negra @Delatiablanca por @Canal_Sony VIERNES A LAS 10 pm.
+ Una famil… https://t.co/yTTAdHiWoU,0.0,0.0,0,0,0,1Or a Sony stereo? Need to get rid of some stuff,0.0,0.0,0,0,792,955RT @kakangkingkong: Shieeeeeet spek siomay pocophone F1 overpowered gini ternyata. Sampe hampir nyamain spek Sony Xz3 yang harganya lebih m…,0.0,0.0,1,0,9566,766https://t.co/aCmPre4gUa
+FE 24-70mm F2.8 GM
+SONY A7R2 https://t.co/8sn1Z5CJld,0.0,0.0,0,0,62,112Rohit Sharma has only faced three maidens in his T20 career, today's from Oshane Thomas the first in over two years.
+-,0.125,0.6666666666666666,0,1,9106,58.
+Punjabi Dost
+Sindhi Dost
+Balochi Dost
+Pathan Dost
+
+Ab Na Ho Pareshan Kun K Ab Har Zuban Mein Poetry Funy News K Liye 
+
+FOLLOW @TERA_INSAF,0.0,0.0,0,0,3532,10RT @DavidSh31525482: Check out Catch and Release (DVD, 2007) Timothy Olyphant, Jennifer Garner #Sony https://t.co/99GTMgMzWf via @eBay,0.0,0.0,0,0,78,373RT @artisticnco: no renato, no los vamos a secuestrar; no sony, no pasa nada si dejan de robarnos con los casi nulos eventos que se hacen d…,0.0,0.0,15,0,3067,2530RT @DavidSh31525482: Check out The Exorcism of Emily Rose (DVD, 2005, Special Edition, Unrated) (Horror) #Sony https://t.co/1RymWnVRBH via…,0.47857142857142854,0.7607142857142857,0,0,78,373RT @Rubiu5: No es Sony, no es Nintendo, es ella que te esta mintiendo,0.0,0.0,29582,0,0,54RT @thenerdmag: RUMOR: Mysterious PSN Permanent Bans Are Being Handed To Accounts  https://t.co/Yu5tzY3TXE
+#Sony #PSNBan #PSN https://t.co/…,0.0,1.0,6,0,288,416RT @Kmagazinemx: #Klovers, Sony Music Mexico está pasando la conferencia de prensa con #SuperJunior de hoy en la mañana, les dejamos el lin…,0.0,0.0,47,0,371,539RT @Rubiu5: No es Sony, no es Nintendo, es ella que te esta mintiendo,0.0,0.0,29582,0,5,79@SpideySensesYou @ChibuikemMolok1 Sony has no other money making franchise. That's why they're keeping spider-man.… https://t.co/6hqSrl6jOu,0.0625,0.375,0,1,133,509@XboxSupport @Xbox how much longer for us to play the games we paid for. You must wonder why Sony took over the console industry. Smh,0.2,0.2,0,0,2,11RT @BizAsia: #ICYMI #BizAsiaRatings Star Plus stayed top as UK's No.1 Asian TV channel with #Ishqbaaaz claiming top position after weeks #Y…,0.3333333333333333,0.3333333333333333,42,0,3,36RT @PetioRolecks: Les apparences ça compte à mort, j'ai fait despi le mort sur les réseaux ça a fait un tweet qui se moquait de mon groupe…,0.0,0.0,343,0,147,88Keemo Paul is significantly more of a threat when bowling to left-handers. His strike rate against RHB is 31; against LHB it's 16.3.
+TayaB,0.5,0.5,0,0,9106,58This is just the third time in India's last 16 matches that they haven't lost a wicket in the powerplay. #INDvWI
+-,0.0,0.03333333333333333,0,0,9106,58

@@ -1,1 +1,100 @@
-Polarity,Subjectivity,Retweets,Favorites,Followers0.0,0.0,98,0,4400.175,0.275,1187,0,580-0.25,0.8666666666666667,405,0,1100.4166666666666667,0.5,0,0,80.0,0.0,0,0,3360.0,0.0,0,0,790.25,0.2,162,0,6340.08522727272727272,0.42727272727272725,0,0,1320710.0,0.0,0,0,6100.5,0.6,189,0,2870.25,0.25,65,0,1320.875,0.6000000000000001,392,0,911-0.24183238636363638,0.7272727272727273,248,0,50.0,0.0,4,0,1960.0,0.0,0,0,8530.0,0.0,0,0,2550.0,0.0,1,0,4870.53125,0.65,61,0,2730.25,0.2,0,0,3020.0,0.0,9,0,670.0,0.2,93,0,100.5,0.6,3,0,3040.625,0.5,760,0,540.875,0.6000000000000001,392,0,177-0.4583333333333333,0.7000000000000001,3,0,192-0.4318181818181818,0.6272727272727273,32,0,426-0.4545454545454546,0.8181818181818182,184,0,10240.1416666666666667,0.7625,130,0,720.0,0.0,0,1,38-0.2,0.05,34,0,5870.0,0.0,0,0,23240.244140625,0.625,1,0,7690.0,0.0,36,0,15090.0,0.0,10,0,2012-0.5,1.0,70,0,4260.0,0.0,5,0,10780.175,0.275,1187,0,173-0.6,0.7,1,0,9530.175,0.275,1187,0,11430.5,0.6,0,0,50090.5,0.5,69,0,3490.125,0.18333333333333332,51,0,11670.0,0.0,1,0,2160.5,0.5,218,0,1660.0,0.0,85,0,540.0,0.0,0,0,4780.0,0.0,4,0,3750.0,0.0,0,0,2118-0.037500000000000006,0.8875,789,0,10330.0,0.0,224,0,12020.35,0.5,0,0,18170.0,0.0,2,0,1410.0,0.0,6,0,142060.0,0.0,0,0,5620.0,0.5833333333333334,188,0,190.15,0.65,0,0,2060.4,0.4,0,0,13-0.75,1.0,0,0,4500.0,0.0,0,0,2237-0.75,1.0,938,0,3070.53125,0.65,61,0,8250.0,0.0,882,0,3320.38712121212121214,0.4515151515151515,42,0,20990.0,0.0,98,0,2591.0,0.3,0,0,7890.0,0.0,22,0,30.0,0.0,8,0,10781.0,0.3,6,0,93330.175,0.275,1187,0,355-0.75,1.0,936,0,260.3333333333333333,0.6666666666666666,3,0,4400.0,0.0,0,0,26581.0,0.2,40,0,1425080.0,0.0,98,0,4021.0,0.6,24,0,1690.26666666666666666,0.39999999999999997,0,0,28830.2852272727272727,0.42727272727272725,0,0,4980.0,0.0,0,0,2420.0,0.0,2,0,3230.53125,0.65,61,0,120-0.24183238636363638,0.7272727272727273,248,0,426-0.1607142857142857,0.10714285714285714,2,0,0-0.75,1.0,936,0,18480.0,0.0,0,0,2390.0,0.0,0,0,34320.5,0.5,69,0,580.175,0.275,1187,0,4440.25,0.75,0,0,8900.175,0.275,1187,0,2080.0,0.0,194,0,490-0.4318181818181818,0.6272727272727273,32,0,510.35,0.55,0,0,4580.0,0.0,1,0,15390.06818181818181818,0.22727272727272727,114,0,13910.0,0.0,2,0,43980.175,0.275,1187,0,1220.0,0.0,10,0,1190.0,0.0,0,0,1010071.0,0.6,24,0,1030.0,0.0,0,0,2729
+RT @btschartdata: Today 2 years ago, 'WINGS' was released as @BTS_twt's second full album. https://t.co/RD2HOimK1S,0.175,0.275,1187,0,580,1493RT @btsworIdwide: [#BTS TOP10 SPOTIFY]
+#1 DNA 160,541,557
+#2 Fake Love 156,149,708
+#3 BST 140,873,791
+#4 MDR 125,392,556
+#5 Spring Day 92,1…,-0.25,0.8666666666666667,405,0,110,51Senza fine de Gino Paoli
+https://t.co/IEMaUD2WLS,0.4166666666666667,0.5,0,0,8,86https://t.co/F86wO4ygTp,0.0,0.0,0,0,79,254RT @purenoiserecs: Thanks for following our Hardcore playlist on @spotify. Win all these records on vinyl by following the playlist and RTi…,0.25,0.2,162,0,634,959Check out new music by Emo/Punk/Rock band, Kaitlyn’s Terror, from Denver, CO! Deep lyrical content and upbeat tempo… https://t.co/UcRIZ2f5YW,0.08522727272727272,0.42727272727272725,0,0,132071,25177RT @spanish_btss: Armchairs! Al fin salió Love Yourself: Answer, ¿cuál es tu canción favorita? 
+
+#LYAnswerOutNow @BTS_twt 
+
+https://t.co/UK…,0.5,0.6,189,0,287,112RT @mysticbaek: We also need to do way better on digital field too. Buying a streaming pass can help us with charting and 1H and 24H ULs. A…,0.25,0.25,65,0,132,88RT @_ari_yuna: Omg , Did you hear it already???
+
+BTS just released A NEW ALBUM!!!
+
+#LYAnswerOutNow on:
+
+Apple Music: (https://t.co/h7xzkwYT…,-0.24183238636363638,0.7272727272727273,248,0,5,55RT @critmissfits: We're on #Spotify now!
+
+#critmissfits #dnd #dungeonsanddragons
+#dnd5e #podcast #podernfamily
+
+https://t.co/tWUF5wL7q5,0.0,0.0,4,0,196,186#LYAnswerOutNow
+https://t.co/xBh4yrzPK3,0.0,0.0,0,0,853,665RT @FutbolPortatil: ¿Sabías que ya podés escuchar la segunda parte de la historia de Romario?
+
+https://t.co/OI0hiKbrMU,0.0,0.0,1,0,487,239RT @BTS_Fambases: CAN YOU SAY FULL VERSION OF EUPHORIA?! ARMY STAYS WINNING!
+#LYANSWEROUTNOW @BTS_twt
+
+#TheGroup #BTS #PCAs
+
+https://t.co/k…,0.53125,0.65,61,0,273,567@UkeleleKawas She showed me places I've never seen, things I've never done
+This really looks like a lotta fun
+https://t.co/F9yqaJ5JvT,0.25,0.2,0,0,302,363RT @BTS_Fambases: Streaming party + dance party? 
+Just (stream and) dance!!!
+
+#LYANSWEROUTNOW @BTS_twt
+
+#Idol #BTS #TheSong #PCAs
+
+https://…,0.0,0.0,9,0,67,104RT @MikeAdamOnAir: #TakiTaki is currently spending it's SEVENTH consecutive day at #1 on the Global Spotify Chart!!! Congrats @DJSnake, @IA…,0.0,0.2,93,0,10,20RT @wildchamomille: BTS NEW ALBUM JUST GOT RELEASED 
+#LYAnswerOutNow on:
+
+Apple Music: (https://t.co/szO2s2m2B3)
+Spotify: (https://t.co/5c7…,-0.4545454545454546,0.8181818181818182,184,0,1024,1369RT @gagamonster96: Shallow gets a huge +2.2 million plays on Spotify with the latest mid-day update, bringing its total to 17 million! http…,0.1416666666666667,0.7625,130,0,72,163RT @duranduran: #TuneInTuesday with @duranduran. Today's song: "Missing" by Arcadia. Listen on the official Spotify playlist: https://t.co/…,-0.2,0.05,34,0,587,980@Spotify @twentyonepilots Stream &amp; Buy  #Trench https://t.co/lBYzLPBRXj,0.0,0.0,0,0,2324,2127RT @Ieavethectiy: my blood is currently in spotify’s hot hits UK playlist and their rock this playlist!!! 
+stream trench
+#trench @twentyone…,0.244140625,0.625,1,0,769,97RT @bunburyoficial: Apuesta por el R´n´R
+https://t.co/Go33WYvNwd
+#BunburyCanciones8717,0.0,0.0,36,0,1509,2303RT @ksjdoll: omg i can’t believe it’s finally here! #LYAnswerOutNow on:
+
+Apple Music: (https://t.co/JPa4OwKIro)
+Spotify: (https://t.co/ySwQ…,-0.5,1.0,70,0,426,302RT @btschartdata: Today 2 years ago, 'WINGS' was released as @BTS_twt's second full album. https://t.co/RD2HOimK1S,0.175,0.275,1187,0,173,62RT @BadGuyCry: @OfficialJoshA pstd to when spotify fucked up the graveyard release,-0.6,0.7,1,0,953,308RT @btschartdata: Today 2 years ago, 'WINGS' was released as @BTS_twt's second full album. https://t.co/RD2HOimK1S,0.175,0.275,1187,0,1143,1127RT @chartariana: Most played female songs in the history of Spotify UK — Solo:
+
+#7. No Tears Left To Cry — 47,203,677
+#9. One Last Time — 4…,0.125,0.18333333333333332,51,0,1167,2971RT @lordyannn: https://t.co/BTOYMvfrNm,0.0,0.0,1,0,216,803#spotify #investpodden #podcast for #startups &amp; #angelinvestors https://t.co/5nDuwSioVW,0.0,0.0,0,0,478,704https://t.co/Di1oPX6SNT,0.0,0.0,0,0,2118,1196RT @GastonSardelli: Acá en @SpotifyARG 
+https://t.co/W41QHIZRsh https://t.co/DskC2kIoNl,0.0,0.0,224,0,1202,1344Superrrr ready for @Spotify to fix their glitches. I have to restart my shuffle so many times a day. I never close… https://t.co/9uvfgh42m9,0.35,0.5,0,0,1817,2549RT @JoahSiu: #LYAnswerOutNow @BTS_twt You can’t stop me lovin’ myself https://t.co/WmZw0ehYJ1,0.0,0.0,2,0,141,1192 days...
+
+#spotify #applemusic https://t.co/NhT7EWTj4t,0.0,0.0,0,0,562,651RT @ADCharts: Adele, Dua Lipa and Sia are the only female artists in history to have two solo songs with over 500 million streams on Spotif…,0.0,0.5833333333333334,188,0,19,227Available on ITunes, Spotify, Apple Music 
+https://t.co/zeALtkwjxi
+#band #music #madebygoogle #TuesdayMotivation… https://t.co/8dZXgcJzXR,0.4,0.4,0,0,13,53LA META DE SPOTIFY ES DE +150M DE PRODUCCIONES EN LA PRIMER SEMANA, GO, GO, GO.
+
+Spotify: (https://t.co/JIDdWx2yTC)
+@BTS_twt
+#LYAnswerOutNow,-0.75,1.0,0,0,450,435dia 28 é #13econfirma
+
+https://t.co/ksf0Y8bNq5,0.0,0.0,0,0,2237,1246RT @btschartdata: #LYAnswerOutNow on:
+
+Apple Music: (https://t.co/SyzdWj3Ayx)
+Spotify: (https://t.co/Oq9YClNpy6)
+TIDAL: (https://t.co/RufTN…,-0.75,1.0,938,0,307,333RT @BTS_Fambases: CAN YOU SAY FULL VERSION OF EUPHORIA?! ARMY STAYS WINNING!
+#LYANSWEROUTNOW @BTS_twt
+
+#TheGroup #BTS #PCAs
+
+https://t.co/k…,0.53125,0.65,61,0,825,767RT @alxsatrum: IDEA: memories but instead of Snapchat it’s Spotify 
+
+“On this day 2 years ago, you listened to ‘I fall apart’ by Post Malon…,0.0,0.0,882,0,332,505best piantini del 2018
+https://t.co/pdyEL5fZD6,1.0,0.3,0,0,789,1486RT @benprunty: Somehow it's Monday again, so here's your reminder that I made a Spotify playlist of all my chill &amp; ambient music, to get yo…,0.0,0.0,22,0,3,86RT @Soakofficial: and @Spotify hank u for making me your one week one playlist cover artist ur the best https://t.co/vDRs4K0Aaz https://t.c…,1.0,0.3,6,0,9333,303RT @btschartdata: Today 2 years ago, 'WINGS' was released as @BTS_twt's second full album. https://t.co/RD2HOimK1S,0.175,0.275,1187,0,355,843RT @btschartdata: #LYAnswerOutNow on:
+
+Apple Music: (https://t.co/SyzdWj3Ayx)
+Spotify: (https://t.co/Oq9YClNpy6)
+TIDAL: (https://t.co/RufTN…,-0.75,1.0,936,0,26,50RT @suripetal: Ahora Te Puedes Marchar de SUPER JUNIOR
+https://t.co/WtKlUWPn4I
+
+#superjunior #TheGroup #PCAs @SJofficial,0.3333333333333333,0.6666666666666666,3,0,440,381ah não, eu viciar em mais uma é maldade https://t.co/V39R5iPtO5,0.0,0.0,0,0,2658,1221RT @deadskulltweets: Tears of joy! I may have not won $500K, but today I hit 500K streams on Spotify with @VanaldenMusic. I’ve worked so ha…,1.0,0.2,40,0,142508,637RT @msmaniacmacgee: Fam you don't know!?!?! @BTS_twt dropped their album Love Yourself: Answer!!!!! Go listen to it on Spotify, Tidal and a…,1.0,0.6,24,0,169,491Big ups to the Fresh Beatz Now playlist for showing love and dropping #NoPolitickin + #HustleNeverHassle on their f… https://t.co/WbuCk4N5cV,0.26666666666666666,0.39999999999999997,0,0,2883,762New song on October 19th. Pre-save the song &amp; follow me on Spotify! https://t.co/UODHy4hces
+It will be available on… https://t.co/0R0nCS3rSM,0.2852272727272727,0.42727272727272725,0,0,498,407https://t.co/iZQFOxl2Nt,0.0,0.0,0,0,242,244RT @BTS_Fambases: CAN YOU SAY FULL VERSION OF EUPHORIA?! ARMY STAYS WINNING!
+#LYANSWEROUTNOW @BTS_twt
+
+#TheGroup #BTS #PCAs
+
+https://t.co/k…,0.53125,0.65,61,0,120,85RT @_ari_yuna: Omg , Did you hear it already???
+
+BTS just released A NEW ALBUM!!!
+
+#LYAnswerOutNow on:
+
+Apple Music: (https://t.co/h7xzkwYT…,-0.24183238636363638,0.7272727272727273,248,0,426,302RT @btschartdata: #LYAnswerOutNow on:
+
+Apple Music: (https://t.co/SyzdWj3Ayx)
+Spotify: (https://t.co/Oq9YClNpy6)
+TIDAL: (https://t.co/RufTN…,-0.75,1.0,936,0,1848,3520Puta que pariu
+https://t.co/tlNoyuhWKs,0.0,0.0,0,0,239,142https://t.co/CbL5VoIIsm,0.0,0.0,0,0,3432,4989RT @btschartdata: Today 2 years ago, 'WINGS' was released as @BTS_twt's second full album. https://t.co/RD2HOimK1S,0.175,0.275,1187,0,444,503RT @btschartdata: Today 2 years ago, 'WINGS' was released as @BTS_twt's second full album. https://t.co/RD2HOimK1S,0.175,0.275,1187,0,208,126“Bron James!” Click the #linkinbio to stream or download the full version to my song “Lebron James”… https://t.co/UQbPUFwSmD,0.35,0.55,0,0,458,237RT @krainak: #NowPlaying https://t.co/3LT4oi38FE,0.0,0.0,1,0,1539,244RT @ultimogyro: "Quiero hacerte un millón de hijos por el orto" el nuevo hit de Luciano Pereyra, escuchalo en Spotify!,0.0,0.0,2,0,4398,306RT @btschartdata: Today 2 years ago, 'WINGS' was released as @BTS_twt's second full album. https://t.co/RD2HOimK1S,0.175,0.275,1187,0,122,279RT @miamicutiesz: dia 12 sai a versão estudio de expectations da lauren jauregui quem comprar a música no itunes e dar stream no spotify e…,0.0,0.0,10,0,119,240NowPlaying THA WEB by @1AndOnlyKingWeb - @1AndOnlyKingWeb Miami Dade County Radio #RadioImpact Listen https://t.co/zMJhbyXEbr 17:55,0.0,0.0,0,0,101007,37885RT @msmaniacmacgee: Fam you don't know!?!?! @BTS_twt dropped their album Love Yourself: Answer!!!!! Go listen to it on Spotify, Tidal and a…,1.0,0.6,24,0,103,375

@@ -1,1 +1,132 @@
-Polarity,Subjectivity,Retweets,Favorites,Followers0.375,0.41666666666666663,65953,0,450.17045454545454544,0.5,0,0,1540.375,0.41666666666666663,0,0,00.375,0.41666666666666663,65954,0,00.0,0.0,0,0,5060.375,0.41666666666666663,65954,0,00.375,0.41666666666666663,65954,0,00.375,0.41666666666666663,65954,0,00.0,0.0,4,0,2180.0,0.0,2,0,10260.375,0.41666666666666663,65953,0,120.375,0.41666666666666663,65953,0,00.375,0.41666666666666663,65953,0,170.375,0.41666666666666663,65953,0,00.0,0.0,0,0,170.0,0.0,0,0,1900.375,0.41666666666666663,65953,0,00.375,0.41666666666666663,65953,0,30.0,0.0,0,0,510.0,0.0,0,0,103470.5499999999999999,0.8333333333333334,0,0,00.0,0.0,2,0,2320.0,0.0,0,0,560.375,0.41666666666666663,65953,0,00.10079365079365078,0.4301587301587302,0,0,564-0.10370370370370373,0.19259259259259262,0,0,1637070.375,0.41666666666666663,65953,0,10.0,0.0,116,0,19440.45,0.25,0,0,4170.375,0.41666666666666663,65953,0,90.0,0.0,0,0,970.0,0.0,0,0,770.375,0.41666666666666663,65953,0,280.375,0.41666666666666663,65953,0,130.375,0.41666666666666663,65953,0,280.0,0.0,2,0,1480.375,0.41666666666666663,65953,0,40.375,0.41666666666666663,65953,0,10.375,0.41666666666666663,65953,0,20.375,0.41666666666666663,65952,0,10.375,0.41666666666666663,65952,0,30.375,0.41666666666666663,65952,0,91.0,0.75,2,0,22140.375,0.41666666666666663,65953,0,00.375,0.41666666666666663,65953,0,00.375,0.41666666666666663,65953,0,10.375,0.41666666666666663,65953,0,00.375,0.41666666666666663,65953,0,00.0,0.0,119,0,80.13636363636363635,0.45454545454545453,0,0,600.0,0.0,1,0,1730.375,0.41666666666666663,65953,0,00.0,0.0,0,0,3820.5499999999999999,0.8333333333333334,0,0,00.375,0.41666666666666663,65953,0,00.0,0.0,1,0,310.0,0.0,0,0,13580.375,0.41666666666666663,65953,0,00.375,0.41666666666666663,65953,0,00.375,0.41666666666666663,65953,0,00.0,0.06666666666666667,0,0,2710.375,0.41666666666666663,65953,0,00.0,0.0,0,0,00.375,0.41666666666666663,65953,0,130.375,0.41666666666666663,65953,0,00.0,0.0,0,0,2170.0,0.0,5,0,2320.0,0.0,144,0,5880.675,0.75,0,1,32340.375,0.41666666666666663,65953,0,00.0,0.125,0,0,7280.375,0.41666666666666663,65953,0,10.375,0.41666666666666663,65953,0,140.375,0.41666666666666663,65953,0,40.375,0.41666666666666663,65953,0,150.0,0.0,0,0,8740.0,0.0,74,0,32260.375,0.41666666666666663,65953,0,00.0,0.0,0,0,2890.0,0.0,1457,0,7000.375,0.41666666666666663,65953,0,00.0,0.0,1,0,2820.375,0.41666666666666663,65953,0,00.09943181818181818,0.4772727272727273,0,0,00.375,0.41666666666666663,65953,0,30.0,0.0,0,0,650.375,0.41666666666666663,65953,0,80.375,0.41666666666666663,65953,0,00.375,0.41666666666666663,65953,0,60.375,0.41666666666666663,65953,0,10.375,0.41666666666666663,65953,0,60.0,0.0,0,0,1210.375,0.41666666666666663,65953,0,00.375,0.41666666666666663,65953,0,170.375,0.41666666666666663,65953,0,90.375,0.41666666666666663,65953,0,90.3583333333333334,0.7166666666666667,0,0,1300.0,0.0,0,0,350.375,0.41666666666666663,65953,0,00.375,0.41666666666666663,65953,0,0
+RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,45,103@amazonIN The Samsung TV
+
+The #AmazonGreatIndianFestival goes live in just 1 hour folks! What is that 1 product you… https://t.co/12K8dPkuDH,0.17045454545454544,0.5,0,0,154,729@LachlanYT Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be wo… https://t.co/oBExAtQOtX,0.375,0.41666666666666663,0,0,0,1RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65954,0,0,1Duradouras e com mais carga, baterias de grafeno são a próxima aposta da Samsung
+
+https://t.co/RcQsHIttPi,0.0,0.0,0,0,506,1035RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65954,0,0,18RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65954,0,0,4RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65954,0,0,2RT @_scott44: See if yer a security guard it the Samsung shop are ye a guardian of the galaxy,0.0,0.0,4,0,218,254RT @kuriharan: Check out. ABN AMRO, #Samsung #SDS Partner for #Blockchain Trade Pilot https://t.co/H2clKqZ66S via @CoinDesk #tech #digital…,0.0,0.0,2,0,1026,2060RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,12,142RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,0,10RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,17,48RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,0,11Samsung Galaxy S8 4G 64GB Plata Libre - https://t.co/TLEcV566Kd https://t.co/gjfHpkiCTt,0.0,0.0,0,0,17,156Samsung podría integrar baterías de grafeno en sus móviles en 2019 https://t.co/fPEjDTwtuX https://t.co/cvlvutZjh9,0.0,0.0,0,0,190,607RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,0,14RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,3,12Samsung Comienza La Producción De Chips De 7nm https://t.co/WdX7DHfFNj #Bitcoin https://t.co/xBcDmbfs4B,0.0,0.0,0,0,51,8Europe’s largest port, the Port Rotterdam, has collaborated with Dutch Bank ABN AMRO and Samsung’s IT division to p… https://t.co/HxAwgsS9hu,0.0,0.0,0,0,10347,1658Funny video from raji tamri, enjoy the beautiful life moment! https://t.co/nQMFxxcGBc,0.5499999999999999,0.8333333333333334,0,0,0,0RT @01net: Bon plan : le smartphone Samsung Galaxy S7 à seulement 279 euros https://t.co/20T7HVWS90 https://t.co/DdH32rjxIW,0.0,0.0,2,0,232,242The Window, el primer televisor transparente de Samsung. https://t.co/yfSIsIKoNS,0.0,0.0,0,0,56,24RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,0,2Halloween Special Thursday. it's Funeral Time. Which device will go down??. Subscribe.  https://t.co/5yvbTXk8WP.… https://t.co/gMFnC3JT5m,0.10079365079365078,0.4301587301587302,0,0,564,322HSBC is trying to cut down on the time bank employees run back and forth tracking down clients. https://t.co/gblCQYFcB6,-0.10370370370370373,0.19259259259259262,0,0,163707,190RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,1,6Best Cell Phone Mobile Spy Software Remotely Read SMS, Check Call &amp; Track GPS Location -&gt; https://t.co/395hLkncmm on motorola lg samsung,0.45,0.25,0,0,417,148RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,9,20@Jerradjrod25 I prefer Samsung,0.0,0.0,0,0,97,324One direction mirror phone case, 1D samsung galaxy phone case 
+
+Get it here ... https://t.co/mh1bqlgn6U https://t.co/7TLxHJnAdB,0.0,0.0,0,0,77,11RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,28,139RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,13,33RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,28,43RT @onegarzon: #Samsung sugiere que su celular flexible o plegable se presentará en noviembre https://t.co/IO5VQ2WeVX #GalaxyX #Android,0.0,0.0,2,0,148,89RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,4,19RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,1,16RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,2,164RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65952,0,1,48RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65952,0,3,41RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65952,0,9,56RT @animesh_garg: This is great news for Samsung AI Research centers! https://t.co/ZEW56ofXm1,1.0,0.75,2,0,2214,2682RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,0,2RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,0,2RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,1,6RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,0,14RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,0,8New on eBay :  Samsung Galaxy Note8 SM-N950U - 64GB - Gray AT&amp;T Unlocked 9/10 https://t.co/6uXa4w5X4E https://t.co/9GsN5hm0Ee,0.13636363636363635,0.45454545454545453,0,0,60,24RT @heybanco: ¿Sin tarjeta ni cajero cerca y necesitas pagar? No te preocupes, usa Samsung Pay. https://t.co/7vh8jUwGGV,0.0,0.0,1,0,173,256RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,0,2Samsung Comienza La Producción De Chips De 7nm https://t.co/scoDz1zbXa #Bitcoin #Noticias #BitcoinNoticias https://t.co/ZmFOwDki0Y,0.0,0.0,0,0,382,16Funny video from raji tamri, enjoy the beautiful life moment! https://t.co/HtCP2XLiye,0.5499999999999999,0.8333333333333334,0,0,0,0RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,0,2"Samsung Galaxy S10: desveladas sus opciones de almacenamiento". https://t.co/MhcC4HQpRO,0.0,0.0,0,0,1358,191RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,0,2RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,0,5RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,0,35@CooldamXbone @Fifi_Banjoko Iphones do not last longer than Samsung. Infact one of Samsung's USP is their bat3 lifespan.,0.0,0.06666666666666667,0,0,271,824RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,0,7@BlackJackAlts @Rubiu5 @Selfinq @fortniteshop_gg Samsung Note 9,0.0,0.0,0,0,0,8RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,13,130RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,0,3¡Quiero el nuevo Samsung Galaxy Note 9 que sortean en la App Mi Vodafone! Entra ahora y podrás participar tú tambié… https://t.co/7U5xNTvYMt,0.0,0.0,0,0,217,727RT @01net: Bientôt des batteries ultra-performantes dans les terminaux Samsung ? https://t.co/Z7QfMTR9Z6 https://t.co/ZGUiaEKuxf,0.0,0.0,5,0,232,242RT @Vuitlife: Kalash il est passé de iPhone x à Samsung s3 mini,0.0,0.0,144,0,588,246@JoshDWalrath @PJCavan Consider also the OnePlus 6. Beautiful phone. The Samsung Galaxy S9+ is also going for healthy prices on Swappa.,0.675,0.75,0,1,3234,283RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,0,18@dcseifert @DanFrakes It's the same situation for Samsung and Apple. None of the three (Samsung, Google, Apple) use… https://t.co/jgx4GOlYDL,0.0,0.125,0,0,728,1530RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,1,20RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,14,100RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,4,27RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,15,172#Bitcuners Samsung Comienza La Producción De Chips De 7nm https://t.co/fKBkHJLirv #Bitcoin,0.0,0.0,0,0,874,861RT @ValaAfshar: Founded
+
+1865 Nokia
+1876 Ericsson
+1911 IBM
+1928 Motorola
+1938 Samsung
+1939 HP
+1946 Sony
+1963 Comcast
+1968 Intel
+1975 Micros…,0.0,0.0,74,0,3226,3215RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,0,2Samsung is developing a laptop with a foldable display https://t.co/d5JAimLOX1,0.0,0.0,0,0,289,244RT @mjcosta_: Jair Bolsonaro é um homem comum, simples e humilde, percebemos isso quando o futuro presidente combate o sistema e fala com m…,0.0,0.0,1457,0,700,594RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,0,2RT @dgleapman: The NYPD recalled 20% of their 15,000 police body cameras because they explode like the Samsung galaxy tablet. What if we do…,0.0,0.0,1,0,282,508RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,0,630 Console bundles to be won with 1 Person taking home the major prize of a new Samsung Note 9 + a duos session wit… https://t.co/Q0m4VUt17b,0.09943181818181818,0.4772727272727273,0,0,0,3RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,3,59RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,8,68RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,0,24RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,6,31RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,1,61RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,6,25A qué feo estar desde el celu de mi papá,apretó cosas como si fuera que es un Samsung y no!porque yo soy una pobre… https://t.co/rTFHjp9py4,0.0,0.0,0,0,121,153RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,0,13RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,17,116RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,9,64RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,9,14My Audio Pet (Gen 1 Mini Bluetooth Animal Wireless Speaker with Powerful Rich Room-filling Sound – 3W audio driver… https://t.co/a8SL072gso,0.3583333333333334,0.7166666666666667,0,0,130,91@4kMachina Samsung 2018 o LG 2018?,0.0,0.0,0,0,35,47RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,0,10RT @LachlanYT: Announcing the first of many "Support a Creator" backed Giveaways.
+
+30 Fortnite Console bundles to be won with 1 Person taki…,0.375,0.41666666666666663,65953,0,0,16

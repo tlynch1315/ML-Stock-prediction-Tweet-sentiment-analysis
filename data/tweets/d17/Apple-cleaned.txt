@@ -1,1 +1,66 @@
-Polarity,Subjectivity,Retweets,Favorites,Followers0.0,0.0,5011,0,13780.0,0.0,0,0,22-0.75,1.0,184,0,25990.0,0.0,2162,0,8460.0,0.5,5,0,16740.0,0.0,5011,0,8350.0,0.0,0,0,317-0.25,0.75,0,0,17670.0,0.0,5,0,5918-0.2277777777777778,0.34444444444444444,63,0,597-0.25,0.0,752,0,5470.0,0.0,0,0,4920.0,0.0,0,0,370.0,0.0,0,0,69-0.03181818181818183,0.22727272727272727,444,0,443-0.2,0.0,454,0,1490.0,0.0,2162,0,1810.0,0.0,5,0,5200.0,0.0,2691,0,1620.0,0.0,0,0,22191-0.03181818181818183,0.22727272727272727,444,0,2810.0,0.0,0,0,2610.0,0.0,0,0,60.0,0.0,5011,0,13860.05,0.6,0,0,46530.0,0.0,0,0,320.0,0.0,3,0,2830.0,0.0,2155,0,5610.0,0.0,0,0,330.0,0.0,2155,0,101300.0,0.0,2155,0,7840.0,0.0,5011,0,4860.0,0.0,32,0,229-0.2,0.0,977,0,1490.0,0.0,0,0,20.0,0.0,2155,0,236-0.02121212121212122,0.15151515151515152,2065,0,1120.0,0.0,144,0,49810.16666666666666666,0.16666666666666666,0,0,5530.25,0.5,42,0,188-0.05,0.5,1367,0,30-0.2277777777777778,0.34444444444444444,63,0,970.0,0.0,0,0,00.0,0.0,2162,0,2550.0,0.0,0,0,110.0,0.0,2162,0,4200.0,0.0,0,0,70.0,0.0,2162,0,6070.0,0.0,0,0,22670.0,0.0,5010,0,130-0.2277777777777778,0.34444444444444444,63,0,16410.0,0.0,0,0,2524-0.2,0.2,10881,0,21390.0,0.0,5011,0,560.0,0.0,2162,0,89-0.75,1.0,894,0,1180.0,0.0,703,0,12210.0,0.0,0,0,4810.0,0.0,5,0,10940.5,1.0,0,0,00.0,0.0,1,0,2286-0.05,0.2,1659,0,8290.0,0.0,0,0,3050.0,0.0,1530,0,8570.0,0.0,2162,0,6603-0.2,0.0,0,0,70887-0.2,0.2,10881,0,2385-0.2,0.0,0,0,708870.0,0.0,0,0,37610.0,0.0,0,0,4670.0,0.0,2162,0,430.5,0.5,305,0,2420.26623376623376627,0.4172077922077922,2399,0,6190.5,0.5,56,0,1210.0,0.0,2162,0,490.5,0.5,0,0,35140.0,0.0,0,0,10630.0,0.0,2162,0,18130.0,0.0,2162,0,4350.0,0.0,0,0,43330.0,0.0,2,0,64650.0,0.0,2,0,6050.26666666666666666,0.5166666666666667,0,0,1030.0,0.0,5011,0,680.0,0.0,0,0,101-0.2,0.0,1026,0,267-0.2,0.0,2050,0,45030.0,0.0,2162,0,430.5,0.6,0,0,700.0,0.0,2162,0,346-0.2,0.0,840,0,16090.024999999999999994,0.16666666666666666,1341,0,32160.0,0.0,0,0,00.0,0.0,5011,0,1280.0,0.0,2162,0,14430.0,0.0,3,0,25-0.2,0.0,1119,0,0-0.05,0.5,1717,0,61500.0,0.0,0,0,65-0.2,0.0,1119,0,149
+RT @DGanhadeiro: Megyn Kelly is OUT at NBC, will likely walk with $69 million - Daily Mail https://t.co/em6XTXHH6s,0.0,0.5,5,0,1674,1711RT @AcessoAnittaR: #Jacuzzi está disponível no iTunes, compre agora:
+
+https://t.co/GClG3fU3l0,0.0,0.0,5,0,5918,877RT @ajplus: Italy fined Apple and Samsung $5.7 million each after complaints that they used software updates to intentionally slow down pho…,-0.2277777777777778,0.34444444444444444,63,0,597,816https://t.co/aCZRrDMWfY,0.0,0.0,0,0,492,684Apple Reportedly Blocked Police iPhone Hacking Tool and Nobody Knows How https://t.co/uhnuJ5eiQP via @gizmodo,0.0,0.0,0,0,69,435RT @btschartdata: iTunes UK:
+
+#9 Waste It On Me (feat. BTS) (+4) *new peak* https://t.co/PvvrrvCELi,-0.03181818181818183,0.22727272727272727,444,0,443,164RT @btschartdata: iTunes Moldova:
+
+#1 Waste It On Me (feat. BTS) (+7) 
+
+*64th #1* https://t.co/PvvrrvCELi,-0.2,0.0,454,0,149,709RT @AcessoAnittaR: #Jacuzzi está disponível no iTunes, compre agora:
+
+https://t.co/GClG3fU3l0,0.0,0.0,5,0,520,211Apple appears to have blocked GrayKey’s iPhone hacking tool https://t.co/25NOfbQxhO #technology #tech #software #development,0.0,0.0,0,0,22191,23828RT @btschartdata: iTunes UK:
+
+#9 Waste It On Me (feat. BTS) (+4) *new peak* https://t.co/PvvrrvCELi,-0.03181818181818183,0.22727272727272727,444,0,281,193@alexqgb This is making me curious to start using Apple’s screen time feature to see how much of my day my phone to… https://t.co/d85JooOvSV,0.05,0.6,0,0,4653,969RT @notannelisa: https://t.co/5oYodvyvE7,0.0,0.0,3,0,283,178Yes https://t.co/jnl2gWhV1k,0.0,0.0,0,0,33,101RT @btschartdata: iTunes Greece:
+
+#1 Waste It On Me (feat. BTS) (+1) 
+
+*65th #1*  https://t.co/PvvrrvCELi,-0.2,0.0,977,0,149,709RT @btschartdata: iTunes Argentina:
+
+#1 Waste It On Me (feat. BTS) (NEW) 
+
+*3rd #1* 
+
+https://t.co/PvvrrvCELi,-0.02121212121212122,0.15151515151515152,2065,0,112,185Forever a classic. https://t.co/JEB6I9KfNq,0.16666666666666666,0.16666666666666666,0,0,553,682RT @BTS_Billboard: "Waste It On Me" by @steveaoki ft. @BTS_twt is charting in 90 regions and is No. 1 in 62 regions so far.
+
+Please keep bu…,-0.05,0.5,1367,0,30,132RT @ajplus: Italy fined Apple and Samsung $5.7 million each after complaints that they used software updates to intentionally slow down pho…,-0.2277777777777778,0.34444444444444444,63,0,97,467Job title : Sr. Interactive Designer
+Client Location: 1585 Broadway, NY
+Duration : 8+ Months
+Client : Sapient Razor… https://t.co/8gim9OK569,0.0,0.0,0,0,11,152support my friend chris https://t.co/jqmRnXGPvu https://t.co/N0o8piwwG3,0.0,0.0,0,0,2267,4911RT @ajplus: Italy fined Apple and Samsung $5.7 million each after complaints that they used software updates to intentionally slow down pho…,-0.2277777777777778,0.34444444444444444,63,0,1641,546FYI Apple Valley residents and businesses: @Apple_Valley_MN is beginning the process of replacing over 15,000 water… https://t.co/lAPCKHqNNo,0.0,0.0,0,0,2524,336RT @katmiriamxo: Yall not seeing man’s eyes? He all levels of heart broken and he just want his cinnamon apple back https://t.co/mxguKGj61z,-0.2,0.2,10881,0,2139,1378RT @BTSdailyinfo: [LINKS]
+
+#WasteItOnMe by @steveaoki ft. @BTS_twt out now.
+
+STREAM + SHARE:
+Youtube: (https://t.co/HBiBammAKs)
+Spotify: (h…,-0.75,1.0,894,0,118,286RT @Hugo_saez: Hoy voy a contar una historia sobre Apple. Pero no trata sobre innovación, ni sobre diseño. Trata sobre algo con menos glamo…,0.0,0.0,703,0,1221,273RT @AcessoAnittaR: #Jacuzzi está disponível no iTunes, compre agora:
+
+https://t.co/GClG3fU3l0,0.0,0.0,5,0,1094,630RT @mzemek: On this week's @accent_tennis podcast, Nick Lester tells @saqiba why the Challenger Tour should be part of the tennis conversat…,0.0,0.0,1,0,2286,144RT @miajwri: y'all panties used to be wet for that white kappa that's built like the apple jacks cinnamon stick I ain't forget,-0.05,0.2,1659,0,829,562RT @btsvotingteam: Buy/Stream #WasteItOnMe @BTS_twt 
+
+Apple Music: https://t.co/ay5s34AUR9
+Spotify: https://t.co/HUHrkNubms
+Amazon Music: h…,0.0,0.0,1530,0,857,2040RT @katmiriamxo: Yall not seeing man’s eyes? He all levels of heart broken and he just want his cinnamon apple back https://t.co/mxguKGj61z,-0.2,0.2,10881,0,2385,897https://t.co/cBhMGUX0uD,0.0,0.0,0,0,3761,1802What we know about the suspicious packages intercepted this week - CNN Politics https://t.co/NwmNA8TfNt,0.0,0.0,0,0,467,1231RT @SKJ1SUNG: - i am you ranks #11 on ww itunes album chart
+- i am you ranks #37 on ww apple album chart
+- i am you mv ranks #23 on most vi…,0.5,0.5,305,0,242,525RT @Jeff__Benjamin: "NAMANANA," the title track and lead single off @LAY_zhang_'s new album, has entered the Top 20 of U.S. @iTunes Top Son…,0.26623376623376627,0.4172077922077922,2399,0,619,280RT @xingmisforxing: Lets kick off this #NamananaStreamingParty! 
+
+Rules: 
+
+1. stream on as many platforms ie. YouTube, Spotify, Apple Music…,0.5,0.5,56,0,121,246Research shows class doesn’t explain voting any more – here’s how we should analyse politics instead - The Independ… https://t.co/Epz09LNQFS,0.5,0.5,0,0,3514,4938RT @_jordanimani_: https://t.co/8guB75vYuo,0.0,0.0,2,0,6465,708RT @Giliprogre: @sanchezcastejon @tim_cook @Apple ¿Promover el emprendimiento es subir los impuestos a los emprendedores y a las tecnológic…,0.0,0.0,2,0,605,544Good Used Apple Watch Series 3 42mm Aluminum Case Black Band GPS Cellular B0449 https://t.co/vGFqPKJYNc,0.26666666666666666,0.5166666666666667,0,0,103,7https://t.co/OAIJAWC1a8,0.0,0.0,0,0,101,240RT @btschartdata: iTunes India:
+
+#1 Waste It On Me (feat. BTS) (+1) 
+
+*15th #1* 
+
+https://t.co/PvvrrvCELi,-0.2,0.0,1026,0,267,486RT @btschartdata: BUY WASTE IT ON ME ON ITUNES https://t.co/vQ32yoEgKV,-0.2,0.0,2050,0,4503,5000RT @BTS_Billboard: "Waste It On Me" by @steveaoki ft. @BTS_twt has reached No. 1 on the U.S. iTunes Singles chart.
+
+U.S. &amp; P.R. ARMY, pleas…,-0.2,0.0,840,0,1609,2070RT @PopCrave: .@SteveAoki connects with @BTS_twt on their first all-english collaboration, “Waste It on Me.”
+
+Stream: https://t.co/ZBNsjotW…,0.024999999999999994,0.16666666666666666,1341,0,3216,3130@Telekom_hilft Hallo, der Apple App Store ist übers iPhone/iPad sehr langsam( WLAN Speedport W 724V Typ A) Wann kan… https://t.co/awZz4unHKU,0.0,0.0,0,0,0,28RT @btschartdata: iTunes Ecuador:
+
+#1 Waste It On Me (feat. BTS) (+1) 
+
+*66th #1* https://t.co/PvvrrvCELi,-0.2,0.0,1119,0,0,26RT @BTS_Billboard: "Waste It On Me" by @steveaoki ft. @BTS_twt is charting in 47 regions but is No. 1 in 7 regions so far.
+
+Please keep buy…,-0.05,0.5,1717,0,6150,90RT @btschartdata: iTunes Ecuador:
+
+#1 Waste It On Me (feat. BTS) (+1) 
+
+*66th #1* https://t.co/PvvrrvCELi,-0.2,0.0,1119,0,149,709

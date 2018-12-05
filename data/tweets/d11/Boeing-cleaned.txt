@@ -1,1 +1,77 @@
-Polarity,Subjectivity,Retweets,Favorites,Followers0.0,0.0,0,0,126750.0,0.0,0,0,70.0,0.0,0,0,140990.0,0.0,5,0,2150.0,0.0,476,0,480.5,0.275,1,0,685-0.55,0.5,0,0,2550.0,0.0,0,0,88-0.07142857142857142,0.21428571428571427,47,0,1960.0,0.0,0,0,350.7,0.6000000000000001,0,0,800.0,0.0,30,0,22120.0,0.0,1,0,111440.0,0.0,4,0,10320.0,0.0,30,0,1500.0,0.0,1,0,3940.0,0.0,1,0,18090.0,0.0,6,0,1110.0,0.0,67,0,840.4,0.6416666666666666,0,0,95790.0,0.0,6,0,33120.0,0.3,8,0,20420.0,0.0,0,0,940.34880952380952385,0.4904761904761905,9,0,1870.0,0.0,0,0,950.0,0.0,0,0,710.0,0.0,7,0,25370.0,0.0,24,0,3340.0,0.0,30,0,2930.0,0.0,0,0,678-0.07142857142857142,0.21428571428571427,47,0,2590.0,0.0,0,0,12420.0,0.0,0,1,1218-0.03,0.165,0,0,4030.0,0.0,427,0,7530.0,0.0,0,0,13700.5,0.5,816,0,600.0,0.0,427,0,23850.0,0.0,1,0,23340.0,0.0,2,0,2740.0,0.0,13,0,3940.25,0.3333333333333333,0,0,5760.175,0.6,0,0,37420.0,0.0,206,0,2800.0,0.0,2,0,107190.0,0.0,30,0,8470.5,0.5,18,0,3510.0,0.0,30,0,12020.0,0.0,53,0,62800.0,0.0,2,1,8120.0,0.0,60,0,410.0,0.5,23,0,1870.0,0.0,0,0,445-0.07142857142857142,0.21428571428571427,47,0,760.0,0.0,7,0,3110.0,0.0,427,0,8970.0,0.0,0,0,160.0,0.1,0,0,4800.0,0.0,1,0,620.0,0.0,0,0,44730.0,0.0,0,0,34740.6,0.9,4,0,116970.0,0.0,7,0,19790.325,1.0,0,0,1330.0,0.0,0,0,460.0,0.0,9,0,34-0.07142857142857142,0.21428571428571427,47,0,1870.0,0.0,7,0,3460.16666666666666666,0.16666666666666666,4,0,10560.0,0.0,7,0,2790.0,0.0,24,0,2140.5,0.5,0,0,1510.0,0.0,12,0,1680.0,0.0,1,0,1560.0,0.0,30,0,635680.0,0.0,30,0,2470.0,0.0,30,0,3080.0,0.0,30,0,16520.0,0.0,7,0,5400.0,0.0,0,0,1710.0,0.0,7,9,39630.0,0.0,30,0,3800.0,0.0,1,11,39630.0,0.0,1,0,255800.0,0.0,0,0,1630.0,0.0,30,0,71350.0,0.06666666666666667,21,0,9260.0,0.0,0,0,1663-0.07142857142857142,0.21428571428571427,47,0,1980.0,0.0,0,0,25700.0,0.0,1,0,676690.0,0.0,0,0,114210.0,0.0,5,0,1010.0,0.0,0,0,840.5,0.5,18,0,89-1.0,1.0,0,0,29640.0,0.0,1,19,161430.0,0.0,0,0,942-0.07142857142857142,0.21428571428571427,47,0,5530.0,0.0,30,0,8874
+El increíble zoom de la Nikon P1000 pillando en pleno vuelo un Boeing 747 https://t.co/iiPGvpsuY7,0.0,0.0,0,0,12675,431BOEING 777-340,TAIL:  760917,ALTITUDE: 6450ft,SPEED: 352mph,HEADING: 347 deg,LATITUDE: 53.40375,LONGITUDE: -2.439853,#FlightAware,0.0,0.0,0,0,7,0| MICHAEL JACKSON CHEGA AO BRASIL |
+
+"Maicou, Maicou, Maicou". Aos gritos, cerca de 1.500 pessoas invocavam o Rei d… https://t.co/XMQ37MPRUs,0.0,0.0,0,0,14099,136RT @GreenPartyWA: #Seattle Solidarity Rally for the Women's March on the #Pentagon, 1PM on Sunday October 21st at Boeing Headquarters, 7755…,0.0,0.0,5,0,215,18RT @BurgerKing: 000000,0.0,0.0,476,0,48,48RT @ThomasVonier: Recently, I heard a Boeing 787 pilot say, "This [Roissy Terminal 1] is still one of the best in the world." Adieu, M Andr…,0.5,0.275,1,0,685,1385Once again Trump's spewing crap He complained abt the release of Iran's money but billions were going to Boeing &amp; A… https://t.co/4Tb8Vd1UrF,-0.55,0.5,0,0,255,499Wamos Air Boeing 747-400
+
+Frankfurt Int. Airport (FRA) 
+2016-04-03  EC-KQC  Age  24.5 Years
+2016-04-01  EC-KXN  Age… https://t.co/5DQE80sGwm,0.0,0.0,0,0,88,19RT @WhatTheFFacts: A single Boeing 777 Engine delivers twice the horsepower of all the Titanic's steam engines combined.,-0.07142857142857142,0.21428571428571427,47,0,196,65Boeing Dreamlifter Taking Off in Hazy and Foggy Condition: https://t.co/mNvfo1zZJi via @YouTube,0.0,0.0,0,0,35,84Packed camera bag, luggage, and an airline ticket is always a good time.  Off to Vegas and Death Valley on Southwes… https://t.co/6Ghj86exct,0.7,0.6000000000000001,0,0,80,1437RT @annaprofedu: @intheMatrixxx @POTUS https://t.co/mfAbtkXL22,0.0,0.0,1,0,11144,11893RT @OBJUpdate: Boeing, we have a problem: 5 reasons why NASA's newest rocket is overpriced, delayed https://t.co/hS0PSSjx8g https://t.co/f6…,0.0,0.0,1,0,394,1543RT @cn_hiroshi: 2018/10/13 Sat.
+Spirit of St.Louis Airshow
+Boeing B-29 Superfortress 
+“Doc”
+N69972(ex.44-69972) https://t.co/jSdcNyaj50,0.0,0.0,1,0,1809,753RT @AirportWebcams: NEWS: British charter airline Cello Aviation ceased operations yesterday, citing financial issues. Its two aircraft, BA…,0.0,0.0,6,0,111,1886@BoeingSpace Since Boeing mentioned the controversial movie "First Man," I have to ask if, like Hollywood, Boeing i… https://t.co/SSXFLIylhu,0.4,0.6416666666666666,0,0,9579,9871RT @swissspotter: Royal Jet - A6-DFR - Boeing 737-7BC (BBJ) - ZRH - 12 Oct 2018 https://t.co/HhwiCa2pW9,0.0,0.0,6,0,3312,4997RT @Fiicaan: UPS 747F making done condensation in low cloud on departure from ANC.
+#avgeeks #aviation #aviationphotography #planespotting #…,0.0,0.3,8,0,2042,447La sorprendente storia di come l'Airbus 320 è diventato il più grande rivale del Boeing 737 https://t.co/QPxgsOLNXK via @bi_italia,0.0,0.0,0,0,94,231@ScienceNews "There ain't no shuttle", #getbusybut there is Boeing and Spacex. Boeing can figure out how to go up w… https://t.co/b5El8CFN0K,0.0,0.0,0,0,95,129This Saturn V launch vehicle built by #Boeing and its heritage companies is what boosted #Apollo11 and #FirstMan Ne… https://t.co/fbFoQqjVC7,0.0,0.0,0,0,71,322RT @cn_hiroshi: 2018/10/13 Sat.
+Spirit of St.Louis Airshow
+Boeing B-29 Superfortress 
+“Doc”
+N69972(ex.44-69972) https://t.co/S05le2s1Om,0.0,0.0,7,0,2537,222RT @timharris: IATA: "Africa has just 2.2% of the global airline passenger share, but 16% of the world’s population" = Growth
+Boeing: "Afri…,0.0,0.0,24,0,334,350RT @WhatTheFFacts: A single Boeing 777 Engine delivers twice the horsepower of all the Titanic's steam engines combined.,-0.07142857142857142,0.21428571428571427,47,0,259,66A Embraer publicou um novo documento revelando mais detalhes sobre a parceria com a Boeing. Confira: https://t.co/c4FENPYpLt,0.0,0.0,0,0,1242,504This Saturn V launch vehicle built by #Boeing and its heritage companies is what boosted #Apollo11 and #FirstMan Ne… https://t.co/HIXrmpXrD2,0.0,0.0,0,1,1218,521@MaxwellDieck Thanks. After what Boeing did to Bombardier &amp; the CSeries very few people up here are fans of Boeing… https://t.co/7bxJzfA05t,-0.03,0.165,0,0,403,345RT @rishibagree: Says Rahul Gandhi who gave
+
+70000 cr NTPC projects to Anil Ambani
+35000 cr BHEL+BEML+IRCON Metro Projects to Reliance
+2000…,0.0,0.0,427,0,753,2016@feyi_dearest are you a pilot with preference to Boeing 747?,0.0,0.0,0,0,1370,1344RT @BoeingAirplanes: 777X is the most efficient in its class. 787 Dreamliner? Ditto. That’s why we’re the undeniable widebody leader. Learn…,0.5,0.5,816,0,60,48RT @rishibagree: Says Rahul Gandhi who gave
+
+70000 cr NTPC projects to Anil Ambani
+35000 cr BHEL+BEML+IRCON Metro Projects to Reliance
+2000…,0.0,0.0,427,0,2385,1818RT @CathySchermer: This Saturn V launch vehicle built by #Boeing and its heritage companies is what boosted #Apollo11 and #FirstMan Neil Ar…,0.0,0.0,1,0,2334,2153RT @AreaDoMarcel: Foto divulgada há pouco pelo Carioca Spotters. O Boeing 777-200 da @airfrance (F-GSPS) está com o nariz amassado, possive…,0.0,0.0,2,0,274,1655RT @HarbirSingh_: No Indian firms lead the world in innovation &amp; design in engineering/technology. No Indian GE, Toyota, Boeing, Google, In…,0.0,0.0,13,0,394,966Congratulations to #ProjectMars First Place poster winner, Adrianna Allen from Leeper, Michigan. 
+
+#Mars #Boeing… https://t.co/N7zy0ua2kI,0.25,0.3333333333333333,0,0,576,298RT @JonPowers777: @Millions4Claire @clairecmc Jo Crain - The Progressive Choice - Green Party!
+Josh Hawley - The honest Republican choice.…,0.175,0.6,0,0,3742,4991RT @BoeingSpace: The film #FirstMan has launched into theaters. This diagram shows the technology built by #Boeing and our heritage compani…,0.0,0.0,206,0,280,671RT @AreaDoMarcel: Foto divulgada há pouco pelo Carioca Spotters. O Boeing 777-200 da @airfrance (F-GSPS) está com o nariz amassado, possive…,0.0,0.0,2,0,10719,2249RT @Official_PIA: Guess how many seats are in a Boeing 777-3Q8(ER)?
+
+Picture Credits: Mario Ferioli 
+
+#PIA #PIATrivia #TravelDiaries https:…,0.5,0.5,18,0,351,1744RT @Enel_Aire: ¿Sabías que...?
+Un día como hoy, pero de hace 2 años, Quetzalcóatl, el primer Boeing 787-9 de Aeroméxico, aterrizó por prime…,0.0,0.0,53,0,6280,3267Foto divulgada há pouco pelo Carioca Spotters. O Boeing 777-200 da @airfrance (F-GSPS) está com o nariz amassado, p… https://t.co/Rhvf9hT5rp,0.0,0.0,2,1,812,68RT @BoeingSpace: Check out all the components that #Boeing and our heritage companies built on the Saturn V.  It helped boost #FirstMan Nei…,0.0,0.0,60,0,41,161RT @arstechnica: Boeing, which is not mentioned in the op-eds, is also the only competitor to SpaceX in the commercial crew program. Could…,0.0,0.5,23,0,187,335@ElsaSotres_ EELLSAAAAAA I AM WATCHING BOEING BOEINGGGGG!!!!,0.0,0.0,0,0,445,1000RT @WhatTheFFacts: A single Boeing 777 Engine delivers twice the horsepower of all the Titanic's steam engines combined.,-0.07142857142857142,0.21428571428571427,47,0,76,196RT @cn_hiroshi: 2018/10/13 Sat.
+Spirit of St.Louis Airshow
+Boeing B-29 Superfortress 
+“Doc”
+N69972(ex.44-69972) https://t.co/S05le2s1Om,0.0,0.0,7,0,311,344RT @rishibagree: Says Rahul Gandhi who gave
+
+70000 cr NTPC projects to Anil Ambani
+35000 cr BHEL+BEML+IRCON Metro Projects to Reliance
+2000…,0.0,0.0,427,0,897,853Informacoes de que 13/10/2018, neste momento: 
+Boeing 777 da air france declarou emergência!
+Transponder  código 77… https://t.co/PJ5EI0FncI,0.0,0.0,0,0,16,17the technical hurdles have been solved for decades—there’s a flying car in boeing’s museum of flight—but they don’t make any sense costwise,0.0,0.1,0,0,480,389RT @TomPodolec: Etihad Airways #EY140 departing Toronto runway 23 and heading to Abu Dhabi. 
+A6-ETG Boeing 777-300 https://t.co/tu03RQcpQt,0.0,0.0,1,0,62,179https://t.co/5g89vKWKrU,0.0,0.0,0,0,3474,4697RT @malkoff: That's me... landing a Boeing 777 at ATL!
+(Kind of... this is part of an upcoming story) https://t.co/9ohR4ORYPp,0.6,0.9,4,0,11697,13112RT @cn_hiroshi: 2018/10/13 Sat.
+Spirit of St.Louis Airshow
+Boeing B-29 Superfortress 
+“Doc”
+N69972(ex.44-69972) https://t.co/S05le2s1Om,0.0,0.0,7,0,1979,429RT @blondeintehran: It’s BS that Trump’s concerned about the “billions of $$ in American jobs” that would be lost if the US was to act in r…,0.0,0.0,9,0,34,136RT @WhatTheFFacts: A single Boeing 777 Engine delivers twice the horsepower of all the Titanic's steam engines combined.,-0.07142857142857142,0.21428571428571427,47,0,187,164RT @cn_hiroshi: 2018/10/13 Sat.
+Spirit of St.Louis Airshow
+Boeing B-29 Superfortress 
+“Doc”
+N69972(ex.44-69972) https://t.co/S05le2s1Om,0.0,0.0,7,0,346,268RT @sualbersdean: Three former Boeing Commercial Airplane CEOs visit @albersatsu and @seattleu to discuss leadership insights.  Read more a…,0.16666666666666666,0.16666666666666666,4,0,1056,806RT @cn_hiroshi: 2018/10/13 Sat.
+Spirit of St.Louis Airshow
+Boeing B-29 Superfortress 
+“Doc”
+N69972(ex.44-69972) https://t.co/S05le2s1Om,0.0,0.0,7,0,279,330RT @timharris: IATA: "Africa has just 2.2% of the global airline passenger share, but 16% of the world’s population" = Growth
+Boeing: "Afri…,0.0,0.0,24,0,214,893@Ra_Bies @ARanganathan72 @RahulGandhi Fir to Sachin Pilot should know more about flying than even CEO of Boeing and… https://t.co/qXQjZaJGKq,0.5,0.5,0,0,151,496RT @SpeedBird_NCL: Boeing 737 flies into brick wall — and just keeps going:
+https://t.co/OGEtVIXeON
+#Aviation #Aircraft #Airline #Airport h…,0.0,0.0,1,0,156,1732RT @cn_hiroshi: 2018/10/13 Sat.
+Spirit of St.Louis Airshow
+Boeing B-29 Superfortress 
+“Doc”
+N69972(ex.44-69972) https://t.co/S05le2s1Om,0.0,0.0,7,0,540,796FAB quer adquirir um Boeing 767-300ER https://t.co/U20IMnfq7H https://t.co/8266C71EPf,0.0,0.0,0,0,171,2072018/10/13 Sat.
+Spirit of St.Louis Airshow
+Boeing B-29 Superfortress 
+“Doc”
+N69972(ex.44-69972) https://t.co/S05le2s1Om,0.0,0.0,7,9,3963,8062018/10/13 Sat.
+Spirit of St.Louis Airshow
+Boeing B-29 Superfortress 
+“Doc”
+N69972(ex.44-69972) https://t.co/jSdcNyaj50,0.0,0.0,1,11,3963,806This Saturn V launch vehicle built by #Boeing and its heritage companies is what boosted #Apollo11 and #FirstMan Ne… https://t.co/YDZkQksiLT,0.0,0.0,0,0,163,344RT @Rainmaker1973: The bomber that will last for a hundred years: The Boeing B-52 Stratofortress began its development in 1946. Being in ac…,0.0,0.06666666666666667,21,0,926,3554Boeing 737 flies into brick wall — and just keeps going https://t.co/Yrv1kpprFT,0.0,0.0,0,0,1663,1478RT @WhatTheFFacts: A single Boeing 777 Engine delivers twice the horsepower of all the Titanic's steam engines combined.,-0.07142857142857142,0.21428571428571427,47,0,198,224Boeing 737 flies into brick wall — and just keeps going https://t.co/rT4kNV1Kai,0.0,0.0,0,0,2570,1822Boeing, we have a problem: 5 reasons why NASA's newest rocket is overpriced, delayed https://t.co/hS0PSSjx8g https://t.co/f6cxi02acM,0.0,0.0,1,0,67669,948https://t.co/CrtnbFmcSg https://t.co/CrtnbFmcSg,0.0,0.0,0,0,11421,11398RT @Indigo_Lux: Der @kahrs schafft es wieder, dass ich mich trotz Schmerzen &amp; einem Muskeltonus wie eine Boeing weglache &amp; mitapplaudiere -…,0.0,0.0,5,0,101,153#Boeing https://t.co/Eiw5RaTIjx,0.0,0.0,0,0,84,100RT @Official_PIA: Guess how many seats are in a Boeing 777-3Q8(ER)?
+
+Picture Credits: Mario Ferioli 
+
+#PIA #PIATrivia #TravelDiaries https:…,0.5,0.5,18,0,89,1078This is terrifying. https://t.co/HOVfMwf0Gj https://t.co/bZcIljaEIT,-1.0,1.0,0,0,2964,633Etihad Airways #EY140 departing Toronto runway 23 and heading to Abu Dhabi. 
+A6-ETG Boeing 777-300 https://t.co/tu03RQcpQt,0.0,0.0,1,19,16143,3594@PollyTickal @pppatticake What motivated James Comey to not inform @GOPoversight that BOEING/GE are withholding Ema… https://t.co/gaBTDQMIeo,0.0,0.0,0,0,942,851RT @WhatTheFFacts: A single Boeing 777 Engine delivers twice the horsepower of all the Titanic's steam engines combined.,-0.07142857142857142,0.21428571428571427,47,0,553,2347

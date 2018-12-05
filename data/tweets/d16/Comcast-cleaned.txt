@@ -1,1 +1,85 @@
-Polarity,Subjectivity,Retweets,Favorites,Followers0.1,0.0,0,0,193-0.3,0.3,0,0,0-0.26666666666666666,0.3333333333333333,1,0,1610.25,0.5,0,0,7060.0,0.0,0,0,1790.0,0.0,0,0,7620.0,0.0,0,1,1100.0,0.0,0,0,780.0,0.1,0,0,810.15714285714285714,0.4214285714285715,0,2,24380.0,0.0,1041,0,880.25,0.3,1,0,6842-0.2,0.3625,0,0,3220.25,0.3,1,0,38496-0.16666666666666666,0.5,0,1,13280.0,0.0,0,0,1790.0,0.0,1,0,4700.6,1.0,0,0,2020.0,0.0,0,0,2710.0,0.0,57,0,41-0.25,0.5,0,0,924-0.14583333333333337,0.5833333333333333,0,0,9240.0,0.0,0,1,68420.0,0.0,89,0,617-0.26666666666666666,0.3333333333333333,1,0,1790.1409090909090909,0.5196969696969697,0,0,118-0.22222222222222224,0.7222222222222222,1,0,400.1,0.1,1,0,68420.1,0.1,1,1,11196-0.44999999999999996,0.8500000000000001,0,0,58360.17222222222222222,0.3944444444444445,0,0,2080.0,0.0,89,0,1400.1,0.2,1,0,37720.0,0.0,89,0,7050.04722222222222221,0.29444444444444445,0,0,213-0.06944444444444443,0.39166666666666666,0,0,10.0,0.1,0,0,101100.6,1.0,0,0,7250.0,0.0,0,0,540.0,0.0,0,0,1004-0.4,0.4,0,0,1200.0,0.0,38,0,150.0,0.0,367,0,1080.0,0.0,62,0,22230.0,0.0,0,0,1170.1,0.2,1,1,20581-0.5562499999999999,0.8,0,0,12710.0,1.0,0,0,68420.0,0.0,0,0,111910.0,0.0,0,0,70210.0,0.0,0,0,73-0.15555555555555559,0.2888888888888889,0,0,1170.3,0.5444444444444444,0,0,830.0,0.0,0,2,55500.0,1.0,0,0,17190.0,0.0,0,0,111910.0,0.0,89,0,4310.6,1.0,0,0,6460.0,0.0,89,0,6360.5,0.5,0,0,830.0,0.0,89,0,3136720.0,0.0,1,0,6842-0.3,0.3,0,0,12-0.15555555555555559,0.2888888888888889,0,0,12-0.09999999999999999,0.3,0,0,1150.0,0.0,2,0,5600.0,0.0,1,1,38496-0.1,0.6,0,0,140.0,0.0,0,1,68420.0,0.0,2,0,258-0.08333333333333333,0.21666666666666667,0,0,370.0,0.0,2,0,682-0.16666666666666666,0.5666666666666667,0,0,250.0,0.0,2,6,58040.2,0.1,1,0,1390.0,0.0,38,0,24-0.2,0.65,0,0,10190.0,0.0,0,0,00.0,0.0,0,1,70210.8,0.95,0,0,54-0.16666666666666666,0.3333333333333333,0,0,5470.0,1.0,0,0,00.0,0.0,0,0,9210.0,0.0,0,0,5310.25,0.55,0,0,1970220.1,0.325,0,2,45730.009999999999999992,0.45500000000000007,0,1,3990.0,0.0,0,0,3310.0,0.875,1,0,10600.0,0.875,1,4,68420.0,0.0,0,0,39-0.17566137566137566,0.3010582010582011,0,0,5470.5,0.6,0,0,50.7,0.875,1,0,740.5,0.5,0,0,237970.0,0.0,57,0,2500.0,0.0,0,0,70210.0,0.0,0,0,1271-0.25,0.7333333333333334,0,0,740.16583806818181818,0.45,0,0,117
+Comcast Says It Offers Gigabit Speed Internet to the Largest Audience https://t.co/KmtsYKoGBn,0.1,0.0,0,0,193,569@DIRECTVService sucks comcast sn and nbc sn both channels not working and the Blackhawks are on, fix it,-0.3,0.3,0,0,0,2RT @64_keith: As A African American I Am APPALLED That NBC/Comcast Hasn't Fired Megan Kelly For Her Racist COMMENTS. I Am Not Condoning Wha…,-0.26666666666666666,0.3333333333333333,1,0,161,73@grlz2grlz @Xfinity @action_spot @Burstcoin_dev I just hope Comcast gets their network online in our area, I got test net servers to sync :),0.25,0.5,0,0,706,830@questlove BOYCOTT COMCAST AND I AM GETTING BACK ON MY COMCAST SHARES I BROUGHT,0.0,0.0,0,0,179,452Megan Kelly has to go. If not, let the boycott of NBC corporate owners begin. @nbc @generalelectric @comcast,0.0,0.0,0,0,762,748@colmmacc Another option may be (assuming I paid from my Comcast account on a separate device or something) is to b… https://t.co/clKJsw6dP1,0.0,0.0,0,1,110,276@JoseHDonGoL @realmadrid Jose Millones de usuarios de @DIRECTV y @comcast no vamos a ver el clasico el Domingo. Tri… https://t.co/y3qSoxKJZC,0.0,0.0,0,0,78,211@JohnLegere @comcast Not if it was Comcast. I’m still waiting for a proper bill, they sent to collections in 4 weeks. Didn’t happen,0.0,0.1,0,0,81,230Can’t wait to get this internet fixed just gotta be smart with how I harass Comcast and I’ll get it done. Once it’s… https://t.co/AXNuwAgffK,0.15714285714285714,0.4214285714285715,0,2,2438,1586RT @ValaAfshar: Year Founded: 
+
+1865 Nokia
+1876 Ericsson 
+1911 IBM
+1928 Motorola
+1938 Samsung
+1939 HP
+1946 Sony
+1963 Comcast
+1968 Intel
+197…,0.0,0.0,1041,0,88,197RT @CathyYoung63: @JPFreire @Xfinity @comcast On more than one occasion I actually had to take my laptop to the nearest Starbucks when work…,0.25,0.3,1,0,6842,7440@AdamRhoda @comcast I’ve never had worse customer service. 4th time on the phone about the same issue &amp; was hung up on by a manager,-0.2,0.3625,0,0,322,256@JPFreire @Xfinity @comcast On more than one occasion I actually had to take my laptop to the nearest Starbucks whe… https://t.co/j3Rih5rZ06,0.25,0.3,1,0,38496,2526@comcast A gig with the nation's worst upload speeds...This is why @verizonfios is the better overall internet serv… https://t.co/hP6puCdhmO,-0.16666666666666666,0.5,0,1,1328,2150That Do Business With NBC, Universal Studios And Comcast As Well As Boycotting Their Shows Until The Matter Is Reso… https://t.co/eo4Q9b70uV,0.0,0.0,0,0,179,452RT @CwaNew: #nbcuniversal, @CWAUnion, #accountability,#comcast, #tomburke, https://t.co/OoUuBs1cny,0.0,0.0,1,0,470,651@xfinity @comcast nice work guys. Worked with an agent for 45 minutes to resolve an issue. Tried to transfer me to… https://t.co/9hj7gO1cFn,0.6,1.0,0,0,202,84@MolinariDiego @Libertadores @comcast Diego, yo lo estoy viendo en @Fanatiztv . Muy buena transmisión.,0.0,0.0,0,0,271,187@NYMag This is not OK. #GrabYourWallet #Comcast #NBC #NBCU #Advertisers #Boycott,-0.25,0.5,0,0,924,3355@NYMag I am about 4 years older than this Evil Incubus, it was never OK. Will never be OK. She is not OK.… https://t.co/uPOBjnKAQV,-0.14583333333333337,0.5833333333333333,0,0,924,3355@jadler1969 @Xfinity @comcast Even if you’re joking, think about my situation: I’m a savvy young-ish customer. If t… https://t.co/WQbnCNTqOP,0.0,0.0,0,1,6842,7440RT @ValaAfshar: Founded
+
+1865 Nokia
+1876 Ericsson
+1911 IBM
+1928 Motorola
+1938 Samsung
+1939 HP
+1946 Sony
+1963 Comcast
+1968 Intel
+1975 Micros…,0.0,0.0,89,0,617,589As A African American I Am APPALLED That NBC/Comcast Hasn't Fired Megan Kelly For Her Racist COMMENTS. I Am Not Con… https://t.co/KJ1PhDbQrk,-0.26666666666666666,0.3333333333333333,1,0,179,452Hello #NormalIL! #RetailSales opportunities for our new Xfinity Store opening in Normal, IL. New store environment,… https://t.co/wGd9NqAufi,0.1409090909090909,0.5196969696969697,0,0,118,173RT @HongPong: Once you realize comcast nbc are super evil then it all makes sense why they pour enough money to pay a thousand journalists…,-0.22222222222222224,0.7222222222222222,1,0,40,239RT @jadler1969: @JPFreire @Xfinity @comcast Sounds like the mains of a class action suit,0.1,0.1,1,0,6842,7440@JPFreire @Xfinity @comcast Sounds like the mains of a class action suit,0.1,0.1,1,1,11196,1073Why is it so painful to deal with Comcast customer service reps my gawd they don’t give a shit about their job. I h… https://t.co/d0H7FBoQUW,-0.44999999999999996,0.8500000000000001,0,0,5836,4590Nothing better than @comcast powering up and powering down during the World Series,0.17222222222222222,0.3944444444444445,0,0,208,303RT @ValaAfshar: Founded
+
+1865 Nokia
+1876 Ericsson
+1911 IBM
+1928 Motorola
+1938 Samsung
+1939 HP
+1946 Sony
+1963 Comcast
+1968 Intel
+1975 Micros…,0.0,0.0,89,0,140,123RT @Gibbsdithers: @JEANNEinWa @TuckerCarlson Old WhoreHey got his talking points didn't he?  The problem with Jorge is  his accent is so th…,0.1,0.2,1,0,3772,4455RT @ValaAfshar: Founded
+
+1865 Nokia
+1876 Ericsson
+1911 IBM
+1928 Motorola
+1938 Samsung
+1939 HP
+1946 Sony
+1963 Comcast
+1968 Intel
+1975 Micros…,0.0,0.0,89,0,705,971comcast customer support never fails to let me down,0.04722222222222221,0.29444444444444445,0,0,213,203@ATTCares once again Directv now has failed me. NBC Sports Chicago is frozen. Other channels are fine. I tried work… https://t.co/EP86pOIKmb,-0.06944444444444443,0.39166666666666666,0,0,1,49#HSFStories HSF Leader: Maria Castro, Comcast, Regional External Affairs Manager; Chair, HSF Advisory Council, Chic… https://t.co/wMAT9X6rMW,0.0,0.1,0,0,10110,6154@AndrewMeyer8 @Xfinity @comcast Nice, what'd you go with as an alternative?,0.6,1.0,0,0,725,925Stop the CABLE SQUEEZE! Don’t let Comcast and Time Warner Merge! https://t.co/Q0ARQ29XGN October 23, 2018 at 09:00PM,0.0,0.0,0,0,54,75Still not offered in the Estates. Next. https://t.co/x9mbubnLQH,0.0,0.0,0,0,1004,734RT @MissingKids: #AMBERAlert #UPDATE!
+Authorities are searching for two vehicles in connection with the disappearance of Jayme Closs.
+
+A 20…,0.0,0.0,367,0,108,102RT @4everNeverTrump: Yes, Megyn Kelly is a racist right-wing reactionary.
+
+No, NBC—which is owned by Comcast—doesn't care.,0.0,0.0,62,0,2223,4676@nburman14 @comcast @sixers @NBATV I cannot, I don’t have Comcast,0.0,0.0,0,0,117,80@JEANNEinWa @TuckerCarlson Old WhoreHey got his talking points didn't he?  The problem with Jorge is  his accent is… https://t.co/ZOr4XHaZJb,0.1,0.2,1,1,20581,20247@Comcast/NBC ..."be there for Morning Joe???" like we're stupid ain't no love for Scarborough let the door hit him where the Lord split him!,-0.5562499999999999,0.8,0,0,1271,826@Xfinity @comcast They also charged me for an HD DVR to rent because that was the only option to get an HD box. Nev… https://t.co/n9IWLO4NO0,0.0,1.0,0,0,6842,7440Comcast Leaders and Achievers College Scholarship https://t.co/7Jz9JtcvES on @bloglovin,0.0,0.0,0,0,11191,8454bballsociety_: SJ airball. Comcast Sports Network Philadelphia NBA Basketball: Philadelphia 76ers at Detroit Piston… https://t.co/GMB7LzDD46,0.0,0.0,0,0,7021,611This is for you Comcast you slimy bastards! https://t.co/zxRt6keme3,0.0,0.0,0,0,73,53@comcastcares What networks?? NBA TV or just Comcast? Basically it comes down to the fact that I don’t pay for Comc… https://t.co/2PZ18kwgtP,-0.15555555555555559,0.2888888888888889,0,0,117,80So comcast is having an outage in my area, so no stream tonight unfortunately. I sure Hope that gets fixed soon but… https://t.co/Nr9zfyrPVC,0.3,0.5444444444444444,0,0,83,138#BoycottMegynKelly #BoycottNBC @NBCNews @nbc @MSNBC @comcast @comcastcares doesn't care otherwise they'd fire racis… https://t.co/v8uGoFQcPR,0.0,0.0,0,2,5550,5015@Libertadores planea en 2020 una final de Libertadores en Miami. Mientras tanto, @comcast que es la mayor compañía… https://t.co/tBF9YLThyk,0.0,1.0,0,0,1719,2410Comcast Leaders and Achievers College Scholarship - APPLY NOW! https://t.co/Qfla31qwvo via @AidScholarship #scholarships,0.0,0.0,0,0,11191,8454RT @ValaAfshar: Founded
+
+1865 Nokia
+1876 Ericsson
+1911 IBM
+1928 Motorola
+1938 Samsung
+1939 HP
+1946 Sony
+1963 Comcast
+1968 Intel
+1975 Micros…,0.0,0.0,89,0,431,380@comcast Still not even giving a 10th of the speeds for me lmao "gigabit",0.6,1.0,0,0,646,577RT @ValaAfshar: Founded
+
+1865 Nokia
+1876 Ericsson
+1911 IBM
+1928 Motorola
+1938 Samsung
+1939 HP
+1946 Sony
+1963 Comcast
+1968 Intel
+1975 Micros…,0.0,0.0,89,0,636,482@thehill C'mon @comcast. Can't you do better than this POS?,0.5,0.5,0,0,83,79RT @ValaAfshar: Founded
+
+1865 Nokia
+1876 Ericsson
+1911 IBM
+1928 Motorola
+1938 Samsung
+1939 HP
+1946 Sony
+1963 Comcast
+1968 Intel
+1975 Micros…,0.0,0.0,89,0,313672,330RT @CathyYoung63: @JPFreire @Xfinity @comcast I tried Comcast about 5 years ago. Ditched them in a year and the service problems I had were…,0.0,0.0,1,0,6842,7440comcast sucks its service is horrendous,-0.3,0.3,0,0,12,47Thanks @comcast your lousy router ruined my video game stream for the third straight time. Internet has been crappy… https://t.co/GwGcoT6w15,-0.09999999999999999,0.3,0,0,115,213RT @DNYLEAST: And my service still ass https://t.co/onCazWWhzh,0.0,0.0,2,0,560,769@JPFreire @Xfinity @comcast I tried Comcast about 5 years ago. Ditched them in a year and the service problems I ha… https://t.co/vzCL0ycXdk,0.0,0.0,1,1,38496,2526@DoyelNathan @charliekirk11 Citizenship gets determined at the Sec of State level. You going to the DMV and not opt… https://t.co/7uza0ktzkO,-0.1,0.6,0,0,14,388@Xfinity I had called about this even months before now. And months before then. Every time I have spoken to Comcas… https://t.co/Av3pEG9ZmA,0.0,0.0,0,1,6842,7440RT @sarahforpdx: I don't even want to hear the word "equity" out of ANY of your mouths. Throwing OUR communities of color - - OUR people -…,0.0,0.0,2,0,258,419@DIRECTVNowHelp local Comcast sports Chicago is FROZEN! Trying to watch the Chicago black hawks ...,-0.08333333333333333,0.21666666666666667,0,0,37,176RT @sarahforpdx: I don't even want to hear the word "equity" out of ANY of your mouths. Throwing OUR communities of color - - OUR people -…,0.0,0.0,2,0,682,2122@KeithJCarberry Ugh. One time Comcast once randomly decided to upgrade me to a much more expensive service. They th… https://t.co/ye0D4BzCOo,-0.16666666666666666,0.5666666666666667,0,0,25,72I don't even want to hear the word "equity" out of ANY of your mouths. Throwing OUR communities of color - - OUR pe… https://t.co/GtmiLuRx6b,0.0,0.0,2,6,5804,3466RT @IndivisibleCA10: @RepJeffDenham Looks like the electric company wants in on the Comcast deal you made . #Releasethesign. https://t.co/0…,0.2,0.1,1,0,139,52Wow. Gigantic, top-down development fails again. @LibPropTrust screwed you over, @CityofCamdenGov. 
+
+"And in Camden… https://t.co/sh6Mzj5OkL,-0.2,0.65,0,0,1019,429@JohnLegere @ATT @verizon @comcast What of me followed,0.0,0.0,0,0,0,6bballsociety_: Markelle block. Comcast Sports Network Philadelphia NBA Basketball: Philadelphia 76ers at Detroit Pi… https://t.co/omEvXVOjq2,0.0,0.0,0,1,7021,611@VerizonSupport JTP you are awesome.  @comcast @comcastcares can’t handle your amazing skills and lack speed in internet and communication.,0.8,0.95,0,0,54,679@comcastcares @comcast @verizon A technician came out today ... this is my 3rd night in a row and I seriously just… https://t.co/fLcgKWNz78,-0.16666666666666666,0.3333333333333333,0,0,547,428I pay @Comcast for 1gbps #broadband but am currently only getting 348mbps. #speedtestcli #speedtest #gigabit… https://t.co/es9LFn6fSe,0.0,1.0,0,0,0,0@ATTSportsNetPIT Can somone stock blocking the games on the #comcast app. Games are sold out. Can't go since I work… https://t.co/io1Tr8iDIE,0.0,0.0,0,0,921,1127If you have Comcast you can stream it from your phone. You have to put the xfinity app@on your phone https://t.co/UKTGqgkbKQ,0.0,0.0,0,0,531,859@ibavolfan @comcast @verizon I would love to look further into your service issues, if you could meet me in a DM I… https://t.co/wCuBamQl9h,0.25,0.55,0,0,197022,156436@JPFreire @Xfinity The Small Claims Division of the General District Court is fun. So much fun that Comcast will ca… https://t.co/qZ6PaySWc1,0.1,0.325,0,2,4573,4907@Raiderfrank65 @JameyBaskow True.  I twitted roughly the same thing about Comcast a few days ago.  They only see th… https://t.co/6tSjGCnvjX,0.009999999999999992,0.45500000000000007,0,1,399,1398@AndrewMeyer8 @Xfinity @comcast Cut that cord! #SnipSnip #Freedom,0.0,0.0,0,0,331,328RT @JPFreire: So Comcast @Xfinity charged me a total of $374 to rent a cable modem. Only problem is I never rented one. So I called to get…,0.0,0.875,1,0,1060,1323So Comcast @Xfinity charged me a total of $374 to rent a cable modem. Only problem is I never rented one. So I call… https://t.co/GlPspQEoHd,0.0,0.875,1,4,6842,7440@MillsGamingTV Shouldn’t the 4th option be whatever Comcast will let u play on?,0.0,0.0,0,0,39,78When @comcast xfinity goes down every single night at least @verizon is dependable and I can hotspot my phone to ge… https://t.co/8PagCvWFMl,-0.17566137566137566,0.3010582010582011,0,0,547,428@JohnLegere @comcast Belittling your competitors is a great way to show how crappy your own company is. While Comca… https://t.co/Iv23tveycn,0.7,0.875,1,0,74,270@Comcast  is staging one of the biggest brand renaissance comebacks ever. Read more &gt; https://t.co/yRivK0mcZn https://t.co/XLLIuPD1w9,0.5,0.5,0,0,23797,19020bballsociety_: Blake FT. Comcast Sports Network Philadelphia NBA Basketball: Philadelphia 76ers at Detroit Pistons… https://t.co/gE1eIXR1Tq,0.0,0.0,0,0,7021,611@Xfinity @comcast won’t subscribe me to #internet service. I’ve paid 4 #hotspot use. I want a monthly plan &amp; 2 pay… https://t.co/7MrTG97byF,0.0,0.0,0,0,1271,2314,@comcast @Xfinity How much longer...? I need my shows! You don't know how miserable it is around here! Only choice… https://t.co/ZNTWvoNHc1,-0.25,0.7333333333333334,0,0,74,449@comcastcares I live in Lancaster PA I have direct tv instead of Comcast and this happens ALL the time!!! How can y… https://t.co/bSik5mXR5c,0.16583806818181818,0.45,0,0,117,80
