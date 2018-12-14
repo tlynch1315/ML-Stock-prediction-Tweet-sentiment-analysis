@@ -26,9 +26,8 @@ def get_companies_full():
 
 def get_prev_day_change():
     companies = get_companies()
-    start = datetime(2018,10,5)
+    start = datetime(2018,10,4)
     end = datetime(2018, 11,25)
-    print(companies)
 
     companies_dict = {x : get_historical_data(x, start=start, end=end, output_format='pandas') for x in companies}
 
@@ -38,10 +37,7 @@ def get_prev_day_change():
             df = companies_dict[company]
             df['date'] = df.index
             df.index = range(len(df))
-            print(df)
-            res = 0
             for i in range(1,len(df)):
-                print(i)
                 pct_change = ((df.loc[i-1,'open']-df.loc[i,'open'])/df.loc[i-1,'open'])*100
                 if df.loc[i-1, 'open'] > df.loc[i,'open']:
                     res = 0
@@ -54,7 +50,6 @@ def get_day_change():
     companies = get_companies()
     start = datetime(2018,10,5)
     end = datetime(2018, 11,25)
-    print(companies)
 
     companies_dict = {x : get_historical_data(x, start=start, end=end, output_format='pandas') for x in companies}
 
@@ -62,7 +57,6 @@ def get_day_change():
     with open('./stock_info.csv', 'w') as f:
         for company in companies_dict:
             df = companies_dict[company]
-            res = 0
             for index, row in df.iterrows():
                 pct_change = ((row['close']-row['open'])/row['open'])*100
                 if row['open'] > row['close']:

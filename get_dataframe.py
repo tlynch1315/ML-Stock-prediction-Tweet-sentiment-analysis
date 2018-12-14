@@ -3,10 +3,6 @@ from stock import *
 from tabulate import tabulate
 
 
-def get_3_day_frame():
-    columns = ['followers', 'polarity', 'sentiment_confidence', 'value', 'date', 'change', 'open']
-
-
 
 def get_dataframe(companies):
     columns = ['followers', 'polarity', 'sentiment_confidence', 'value', 'date', 'change', 'open']
@@ -14,9 +10,7 @@ def get_dataframe(companies):
 
     for comp in companies:
         curr = []
-        df = pd.DataFrame(columns=columns)
         for i in range(1, 23):
-            #print(i, comp)
             daydf = pd.DataFrame(columns=['positive','negative', 'neutral', 'label'])
             try:
                 path = './data/clean/d{}/{}-cleaned.csv'.format(i, comp)
@@ -25,8 +19,7 @@ def get_dataframe(companies):
                     daydf.at[0,'positive'] = len(data.loc[data['polarity'] > 0])
                     daydf.at[0,'negative'] = len(data.loc[data['polarity'] < 0])
                     daydf.at[0,'neutral'] = len(data.loc[data['polarity'] == 0])
-                    #print(daydf.at[0,'positive'])
-                    #print(data)
+
                     if data.at[0,'change'] < 0:
                         daydf.at[0,'label'] = 0
                     else:
@@ -35,16 +28,13 @@ def get_dataframe(companies):
                     daydf.at[0,'positive'] = 0
                     daydf.at[0,'negative'] = 0
                     daydf.at[0,'neutral'] = 0
-                    #print(daydf.at[0,'positive'])
-                    #print(data)
+
                     daydf.at[0,'label'] = 0
                 curr.append(daydf)
             except FileNotFoundError:
                 daydf.at[0,'positive'] = 0
                 daydf.at[0,'negative'] = 0
                 daydf.at[0,'neutral'] = 0
-                #print(daydf.at[0,'positive'])
-                #print(data)
                 daydf.at[0,'label'] = 0
         frame = pd.concat(curr)
         frame.index = [x for x in range(len(curr))]
@@ -62,25 +52,12 @@ def get_dataframe(companies):
                 newdf.at[0,'neutral'] = frame.loc[i-3, 'neutral'] + frame.loc[i-2, 'neutral'] + frame.loc[i-1, 'neutral']
                 newdf.at[0,'label'] = frame.at[i,'label']
             dfList.append(newdf)
-            '''print("NEW DATAFRAME")
-            print(newdf)
-            print("OLD DATAFRAME")
-            print(frame.iloc[i])'''
-            #if i > 3:
-            #    exit()
-            #print(tabulate(newdf, headers='keys', tablefmt='psql'))
         fr = pd.concat(dfList)
         fr.index = [x for x in range(len(dfList))]
         dict_[comp]=fr
 
     return dict_
 
-
-def prep_dataframe(dict_):
-    df = pd.DataFrame(columns=['prev3', 'prev2', 'prev1', 'label'])
-    for comp in dict_.keys():
-        curr = dict_[comp]
-        print(curr)
 
 
 
@@ -89,5 +66,4 @@ if __name__ == "__main__":
     li = get_dataframe(companies)
     for comp in li:
         print(comp)
-        #print(li[comp].index)
         print(tabulate(li[comp], headers='keys', tablefmt='psql'))
